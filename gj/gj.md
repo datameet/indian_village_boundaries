@@ -1,6 +1,6 @@
 ## Gujarat
 
-* Total Villages 18827
+* Total Villages and Towns: 18797
 * Census State code: 24
 * Short Name: GJ
 
