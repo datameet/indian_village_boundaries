@@ -17,7 +17,7 @@ Each boundary will have the following attributes
 * DISTRICT : District name as per census
 * STATE: State or UT name as per census
 * CENSUS_CODE_2001: Code as per 2001 census, its a concatination of State Code, District Code, Sub-District Code, Village Code 2001.
-* CENSUS_CODE_2011: Code as per 2011 census
+* CENSUS_CODE_2011: Code as per 2011 census, We are yet to populate this. 
 
 
 ### License
@@ -25,14 +25,14 @@ All our work will be under [Open Data Commons Open Database License (ODbL)](http
 
 
 ### Information
-- [Census of India, List of Villages/Towns, 2011](http://censusindia.gov.in/2011census/Listofvillagesandtowns.aspx) 
+Each folder has a file that contains the details about the data from that state. 
 
 ### Status
 
 
 State | Short Code | Status 
------------- | ------------- 
-Gujarat | GJ | Complete 
+------------ | ------------- | ------------- 
+[Gujarat](/gj) | GJ | Complete 
 
 ### Tools
 - QGIS
