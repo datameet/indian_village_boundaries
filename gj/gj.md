@@ -11,5 +11,5 @@
 - [VILLAGE CENSUS CODE - 2001, ](http://pmgsy.nic.in/census-code.asp)
 
 ### Status
-[] Map complete
-[] 2011 village coding needs to be done
+- [ ] Map complete
+- [ ] 2011 village coding needs to be done
