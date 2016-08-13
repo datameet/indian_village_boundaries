@@ -24,8 +24,15 @@ Each boundary will have the following attributes
 All our work will be under [Open Data Commons Open Database License (ODbL)](http://opendatacommons.org/licenses/odbl/). This data is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  If you find issues we are more than happy to accept corrections.
 
 
-### Information
-Each folder has a file that contains the details about the data from that state. 
+### Reference
+This is the master list of all the references. These links are mostly goverment or under open license. Each state folder also has a note that can be reffered.
+
+- [Delimitation Map 2010, Kerala, Maps of Villages and Towns](http://delimitation.lsgkerala.gov.in/map)
+- [Local Government Directory - List of all Local Goverments, Urban and Local, with codes and sometimes maps ](http://lgdirectory.gov.in/)
+- [Gujarat Revenue Department Maps](https://revenuedepartment.gujarat.gov.in/village-map)
+- [Census of India, List of Villages/Towns, 2011](http://censusindia.gov.in/2011census/Listofvillagesandtowns.aspx) 
+- [VILLAGE CENSUS CODE - 2001, ](http://pmgsy.nic.in/census-code.asp)
+
 
 ### Status
 
