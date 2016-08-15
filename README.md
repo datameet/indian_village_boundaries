@@ -43,6 +43,7 @@ This is the master list of all the references. These links are mostly goverment 
 State | Short Code | Status 
 ------------ | ------------- | ------------- 
 [Gujarat](/gj) | GJ | Complete 
+[Kerala](/kl) | KL | Complete 
 
 ### Tools
 - QGIS
