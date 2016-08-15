@@ -32,6 +32,9 @@ This is the master list of all the references. These links are mostly goverment 
 - [Gujarat Revenue Department Maps](https://revenuedepartment.gujarat.gov.in/village-map)
 - [Census of India, List of Villages/Towns, 2011](http://censusindia.gov.in/2011census/Listofvillagesandtowns.aspx) 
 - [VILLAGE CENSUS CODE - 2001, ](http://pmgsy.nic.in/census-code.asp)
+- [GARV-GIS Mapping of UE Villages](https://ncog.gov.in/garvgis/admin/gisModule)
+- [iBHUGOAL-BiHar infrastrUcture mapping Geomatics Oriented Application modeL](http://gis.bih.nic.in/)
+- [Bhuvan Panchayat - Digital Empowerment of Society for Panchayat level Planning and Governance](http://www.bhuvan-panchayat.nrsc.gov.in/#SISDP)
 
 
 ### Status
