@@ -40,12 +40,13 @@ This is the master list of all the references. These links are mostly goverment 
 ### Status
 
 
-State | Short Code | Status 
------------- | ------------- | ------------- 
-[Gujarat](/gj) | GJ | Complete 
-[Kerala](/kl) | KL | Complete 
+State | Project Page | Status | Quick View on GeoJSON.io 
+------------ | ------------- | ------------- | ------------- 
+[Gujarat](/gj) | GJ | Complete | [Quick View](http://geojson.io/#data=data:text/x-url,https%3A%2F%2Frawgit.com%2Fdatameet%2Findian_village_boundaries%2Fmaster%2Fgj%2Fgj.json)
+[Kerala](/kl) | KL | Complete  | [Quick View](http://geojson.io/#data=data:text/x-url,https%3A%2F%2Frawgit.com%2Fdatameet%2Findian_village_boundaries%2Fmaster%2Fkl%2Fkl.json)
 
 ### Tools
-- QGIS
-- MapShaper
-- GeoJSON.io
+- [MapShaper](http://mapshaper.org/) is software for editing Shapefile, GeoJSON, TopoJSON and several other data formats, written in JavaScript.
+- [geojson.io](http://geojson.io/) is a quick, simple tool for creating, viewing, and sharing maps. geojson.io is named after GeoJSON, an open source data format, and it supports GeoJSON in all ways - but also accepts KML, GPX, CSV, GTFS, TopoJSON, and other formats.
+- [RawGit](https://rawgit.com/) - serves raw files directly from GitHub with proper Content-Type headers.
+- [QGIS](http://www.qgis.org/en/site/) - A Free and Open Source Geographic Information System.
