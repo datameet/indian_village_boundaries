@@ -64,8 +64,9 @@ State | Project Page | Status | Quick View
 [Bihar](/br) | BR | In Progress  | In Progress
 [Karnataka](/ka) | KA | In Progress  | In Progress
 
-### Tools
+### Tools and Tutorials 
 - [MapShaper](http://mapshaper.org/) is software for editing Shapefile, GeoJSON, TopoJSON and several other data formats, written in JavaScript.
 - [geojson.io](http://geojson.io/) is a quick, simple tool for creating, viewing, and sharing maps. geojson.io is named after GeoJSON, an open source data format, and it supports GeoJSON in all ways - but also accepts KML, GPX, CSV, GTFS, TopoJSON, and other formats.
 - [RawGit](https://rawgit.com/) - serves raw files directly from GitHub with proper Content-Type headers.
 - [QGIS](http://www.qgis.org/en/site/) - A Free and Open Source Geographic Information System.
+- [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github/) 
