@@ -57,10 +57,10 @@ This is the master list of all the references. These links are mostly goverment 
 ### Status
 
 
-State | Project Page | Status | Quick View on GeoJSON.io 
+State | Project Page | Status | Quick View 
 ------------ | ------------- | ------------- | ------------- 
-[Gujarat](/gj) | GJ | Complete | [Quick View](http://geojson.io/#data=data:text/x-url,https%3A%2F%2Frawgit.com%2Fdatameet%2Findian_village_boundaries%2Fmaster%2Fgj%2Fgj.json)
-[Kerala](/kl) | KL | Complete  | [Quick View](http://geojson.io/#data=data:text/x-url,https%3A%2F%2Frawgit.com%2Fdatameet%2Findian_village_boundaries%2Fmaster%2Fkl%2Fkl.json)
+[Gujarat](/gj) | GJ | Complete | [Quick View](https://github.com/datameet/indian_village_boundaries/blob/master/gj/gj.geojson)
+[Kerala](/kl) | KL | Complete  | [Quick View](https://github.com/datameet/indian_village_boundaries/blob/master/kl/kl.geojson)
 [Bihar](/br) | BR | In Progress  | In Progress
 [Karnataka](/ka) | KA | In Progress  | In Progress
 
