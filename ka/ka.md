@@ -23,7 +23,8 @@
 
 ### Historical Info by creators
 README FILE FOR GIS LAYER 
-Kar-village-with census 1991 and 2001-GEOG
+Kar-village-with census 1991 and 2001-GEOG
+
 1.  This is a shapefile containing the revenue village boundaries of villages in Karnataka 
 state, India
 2.  The boundaries have been digitized manually from District Census Handbooks of 
