@@ -53,6 +53,7 @@ This is the master list of all the references. These links are mostly goverment 
 - [Layer: Villages Boundary (Census-2001) (ID: 1)](http://india-wris.nrsc.gov.in/ArcGIS/rest/services/SubInfoSysLCC/Rural/MapServer/1/query)
 - [Village layer (Census 2001) WMS Service](http://india-wris.nrsc.gov.in/arcgis/services/SubInfoSysLCC/Rural/MapServer/WMSServer) provided by [WRIS India](http://india-wris.nrsc.gov.in/WMSServicesApp.html)
 - [Administrative layer (Invluding Village) WMS Service](http://india-wris.nrsc.gov.in/arcgis/services/SubInfoSysLCC/Admin_subinfo_a/MapServer/WMSServer) provided by [WRIS India](http://india-wris.nrsc.gov.in/WMSServicesApp.html)
+- [Mapping of Land Region Codes for Census 2011 and 2001 Data](https://egovstandards.gov.in/mapping_land_region_codification) 
 
 ### Status
 
