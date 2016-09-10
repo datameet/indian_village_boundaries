@@ -13,11 +13,11 @@ Each boundary will have the following attributes
 
 * NAME : Name of the Village/Town as per census
 * TYPE: Village or Town
-* SUB_DISTRICT: Sub District name as per census
+* SUB_DIST: Sub District name as per census
 * DISTRICT : District name as per census
 * STATE: State or UT name as per census
-* CENSUS_CODE_2001: Code as per 2001 census, its a concatination of State Code, District Code, Sub-District Code, Village Code 2001.
-* CENSUS_CODE_2011: Code as per 2011 census, We are yet to populate this. 
+* CEN_2001: Code as per 2001 census, its a concatination of State Code, District Code, Sub-District Code, Village Code 2001.
+* CEN_2011: Code as per 2011 census, We are yet to populate this. 
 
 
 ### License
