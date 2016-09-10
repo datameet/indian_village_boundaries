@@ -62,8 +62,8 @@ State | Project Page | Status | Quick View
 ------------ | ------------- | ------------- | ------------- 
 [Gujarat](/gj) | GJ | Complete | [Quick View](https://github.com/datameet/indian_village_boundaries/blob/master/gj/gj.geojson)
 [Kerala](/kl) | KL | Complete  | [Quick View](https://github.com/datameet/indian_village_boundaries/blob/master/kl/kl.geojson)
-[Bihar](/br) | BR | In Progress  | In Progress
-[Karnataka](/ka) | KA | In Progress  | [Quick View](https://github.com/datameet/indian_village_boundaries/blob/master/ka/ka.geojson)
+[Bihar](/br) | BR | Complete  | [Quick View](https://github.com/datameet/indian_village_boundaries/blob/master/br/br.geojson)
+[Karnataka](/ka) | KA | Complete  | [Quick View](https://github.com/datameet/indian_village_boundaries/blob/master/ka/ka.geojson)
 
 ### Tools and Tutorials 
 - [MapShaper](http://mapshaper.org/) is software for editing Shapefile, GeoJSON, TopoJSON and several other data formats, written in JavaScript.
