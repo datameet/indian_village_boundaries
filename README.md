@@ -75,3 +75,8 @@ State | Project Page | Status | Quick View
 - [RawGit](https://rawgit.com/) - serves raw files directly from GitHub with proper Content-Type headers.
 - [QGIS](http://www.qgis.org/en/site/) - A Free and Open Source Geographic Information System.
 - [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github/) 
+
+
+### Backups
+- On [GitLab](https://gitlab.com/datameet/indian_village_boundaries)
+- On Archive.org - Coming soon
