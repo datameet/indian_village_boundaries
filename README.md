@@ -68,15 +68,18 @@ State | Project Page | Status | Quick View
 [Bihar](/br) | BR | Complete  | [Quick View](https://github.com/datameet/indian_village_boundaries/blob/master/br/br.geojson)
 [Karnataka](/ka) | KA | Complete  | [Quick View](https://github.com/datameet/indian_village_boundaries/blob/master/ka/ka.geojson)
 
-### Tools and Tutorials 
+### Tools 
 - [MapShaper](http://mapshaper.org/) is software for editing Shapefile, GeoJSON, TopoJSON and several other data formats, written in JavaScript.
 - [geojson.io](http://geojson.io/) is a quick, simple tool for creating, viewing, and sharing maps. geojson.io is named after GeoJSON, an open source data format, and it supports GeoJSON in all ways - but also accepts KML, GPX, CSV, GTFS, TopoJSON, and other formats.
 - [GeoJSONLint](http://geojsonlint.com/) is an app that validates your GeoJSON and shows your feature(s) on a map if everything checks out ok.
 - [RawGit](https://rawgit.com/) - serves raw files directly from GitHub with proper Content-Type headers.
 - [QGIS](http://www.qgis.org/en/site/) - A Free and Open Source Geographic Information System.
-- [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github/) 
+
+### Tutorials 
+- [Converting GeoJSON into Shapefile](https://archive.org/details/geojson_to_shapefile)
+- [Exploring GeoJSON and renaming fields](https://archive.org/details/exploring_geojson_and_renaming_fields)
+- [Mapping GeoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github/) 
 
 
 ### Backups
 - On [GitLab](https://gitlab.com/datameet/indian_village_boundaries)
-- On Archive.org - Coming soon
