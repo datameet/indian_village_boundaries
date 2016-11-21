@@ -63,10 +63,10 @@ This is the master list of all the references. These links are mostly goverment 
 
 State | Project Page | Status | Quick View 
 ------------ | ------------- | ------------- | ------------- 
-[Gujarat](/gj) | GJ | Complete | [Quick View](https://github.com/datameet/indian_village_boundaries/blob/master/gj/gj.geojson)
-[Kerala](/kl) | KL | Complete  | [Quick View](https://github.com/datameet/indian_village_boundaries/blob/master/kl/kl.geojson)
-[Bihar](/br) | BR | Complete  | [Quick View](https://github.com/datameet/indian_village_boundaries/blob/master/br/br.geojson)
-[Karnataka](/ka) | KA | Complete  | [Quick View](https://github.com/datameet/indian_village_boundaries/blob/master/ka/ka.geojson)
+[Gujarat](/gj) | GJ | Complete | [Quick View](http://mapshaper.org/?files=https://rawgit.com/datameet/indian_village_boundaries/master/gj/gj.geojson)
+[Kerala](/kl) | KL | Complete  | [Quick View](http://mapshaper.org/?files=https://rawgit.com/datameet/indian_village_boundaries/master/kl/kl.geojson)
+[Bihar](/br) | BR | Complete  | [Quick View](http://mapshaper.org/?files=https://rawgit.com/datameet/indian_village_boundaries/master/br/br.geojson)
+[Karnataka](/ka) | KA | Complete  | [Quick View](http://mapshaper.org/?files=https://rawgit.com/datameet/indian_village_boundaries/master/ka/ka.geojson)
 
 ### Tools 
 - [MapShaper](http://mapshaper.org/) is software for editing Shapefile, GeoJSON, TopoJSON and several other data formats, written in JavaScript.
