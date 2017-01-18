@@ -37,6 +37,12 @@ This is the master list of all the references. These links are mostly goverment 
 - [KA - Geographical Information System (GIS) based Road Information System (RIS) for PWP & IWTD Road Network](http://103.241.144.46:8888/webris/webris)
 - [KA - Dharwad Village Boundaries](http://www.dharwad.nic.in/dwd_vill.htm)
 - [KL - Delimitation Map 2010, Kerala, Maps of Villages and Towns](http://delimitation.lsgkerala.gov.in/map)
+- [GA - Bhuvan Panchayat - Digital Empowerment of Society for Panchayat level Planning and Governance](http://www.bhuvan-panchayat.nrsc.gov.in/#SISDP)
+- [GA - Taluka Village Maps - Department of Science, Technology and Environment, Govt of Goa -  PDF](http://www.dstegoa.gov.in/Goa_Structures1.pdf)
+- [GA - Districts of Goa, Govt of Goa](https://www.goa.gov.in/know-goa/districts-of-goa/)
+- [GA - DGPS Maps - Directorate of Mines & Geology, Govt of Goa](http://www.goadmg.gov.in/Maps.aspx)
+- [GA - Bhuvan Goa](http://bhuvan.nrsc.gov.in/state/GA)
+- [GA - GARV-GIS Mapping of UE Villages](https://ncog.gov.in/garvgis/admin/gisModule)
 - [TS - Bhuvan - Telangana State Village Boundaries](http://bhuvan.nrsc.gov.in/state/ts)
 - [MH - Maharashtra Remote Sensing Application Centre](http://www.mrsac.gov.in/en)
 - [MH - Geo-referencing of Village Map Project (GVMP)](http://www.mrsac.gov.in/en/projects/high-resolution-data-base-mapping/geo-referencing-village-map-project-gvmp)
@@ -67,6 +73,7 @@ State | Project Page | Status | Quick View
 [Kerala](/kl) | KL | Complete  | [Quick View](http://mapshaper.org/?files=https://rawgit.com/datameet/indian_village_boundaries/master/kl/kl.geojson)
 [Bihar](/br) | BR | Complete  | [Quick View](http://mapshaper.org/?files=https://rawgit.com/datameet/indian_village_boundaries/master/br/br.geojson)
 [Karnataka](/ka) | KA | Complete  | [Quick View](http://mapshaper.org/?files=https://rawgit.com/datameet/indian_village_boundaries/master/ka/ka.geojson)
+[Goa](/ga) | GA | Complete  | [Quick View](http://mapshaper.org/?files=https://rawgit.com/datameet/indian_village_boundaries/master/ga/ga.geojson)
 
 ### Tools 
 - [MapShaper](http://mapshaper.org/) is software for editing Shapefile, GeoJSON, TopoJSON and several other data formats, written in JavaScript.
