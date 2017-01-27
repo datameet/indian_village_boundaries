@@ -1,0 +1,10 @@
+site_name: Indian Village Boundaries (Maps)
+theme_dir: cinder
+copyright: "Indian Village Boundaries (Maps)  is licensed under the <a href='https://github.com/datameet/indian_village_boundaries/blob/master/LICENSE.md'>ODbl license</a>"
+pages:
+    - Home: index.md
+    - Contributing: contributing.md
+    - Reference: reference.md
+    - Tools: tools.md
+    - Tutorials: tutorials.md
+site_dir: './../docs'
