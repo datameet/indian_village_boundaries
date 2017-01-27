@@ -24,16 +24,47 @@ Each boundary will have the following attributes
 * CEN_2011: Code as per 2011 census, We are yet to populate this. 
 
 ## Status
+<table class="table table-bordered">
+	<thead >
+		<td>State</td>
+		<td>Status</td>
+		<td>Quick View</td>
+		<td>Download</td>
+	</thead>
+<tbody>
+	<tr>
+		<td>Gujarat - GJ </td>
+		<td>Complete</td>
+		<td>[Quick View](http://mapshaper.org/?files=https://rawgit.com/datameet/indian_village_boundaries/master/gj/gj.geojson)</td>
+		<td>[Download](https://github.com/datameet/indian_village_boundaries/raw/master/gj/gj.geojson)</td>
+	</tr>
+	<tr>
+		<td>Bihar - BR </td>
+		<td>Complete</td>
+		<td>[Quick View](http://mapshaper.org/?files=https://rawgit.com/datameet/indian_village_boundaries/master/br/br.geojson)</td>
+		<td>[Download](https://github.com/datameet/indian_village_boundaries/raw/master/br/br.geojson)</td>
+	</tr>
+	<tr>
+		<td>Karnataka - KA </td>
+		<td>Complete</td>
+		<td>[Quick View](http://mapshaper.org/?files=https://rawgit.com/datameet/indian_village_boundaries/master/ka/ka.geojson)</td>
+		<td>[Download](https://github.com/datameet/indian_village_boundaries/raw/master/ka/ka.geojson)</td>
+	</tr>
+	<tr>
+		<td>Kerala - KL </td>
+		<td>Complete</td>
+		<td>[Quick View](http://mapshaper.org/?files=https://rawgit.com/datameet/indian_village_boundaries/master/kl/kl.geojson)</td>
+		<td>[Download](https://github.com/datameet/indian_village_boundaries/raw/master/kl/kl.geojson)</td>
+	</tr>
+	<tr>
+		<td>Goa - GA </td>
+		<td>Complete</td>
+		<td>[Quick View](http://mapshaper.org/?files=https://rawgit.com/datameet/indian_village_boundaries/master/ga/ga.geojson)</td>
+		<td>[Download](https://github.com/datameet/indian_village_boundaries/raw/master/ga/ga.geojson)</td>
+	</tr>
 
-
-State | Project Page | Status | Quick View 
------------- | ------------- | ------------- | ------------- 
-[Gujarat](/gj) | GJ | Complete | [Quick View](http://mapshaper.org/?files=https://rawgit.com/datameet/indian_village_boundaries/master/gj/gj.geojson)
-[Kerala](/kl) | KL | Complete  | [Quick View](http://mapshaper.org/?files=https://rawgit.com/datameet/indian_village_boundaries/master/kl/kl.geojson)
-[Bihar](/br) | BR | Complete  | [Quick View](http://mapshaper.org/?files=https://rawgit.com/datameet/indian_village_boundaries/master/br/br.geojson)
-[Karnataka](/ka) | KA | Complete  | [Quick View](http://mapshaper.org/?files=https://rawgit.com/datameet/indian_village_boundaries/master/ka/ka.geojson)
-[Goa](/ga) | GA | Complete  | [Quick View](http://mapshaper.org/?files=https://rawgit.com/datameet/indian_village_boundaries/master/ga/ga.geojson)
-
+</tbody>
+</table>	
 
 ## License
 All our work will be under [Open Data Commons Open Database License (ODbL)](http://opendatacommons.org/licenses/odbl/). This data is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  If you find issues we are more than happy to accept corrections but please source them to an official source. Refer [CONTRIBUTING.md](CONTRIBUTING.md) for ways to contribute.
