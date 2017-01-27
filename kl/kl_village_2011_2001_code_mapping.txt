@@ -1,0 +1,1496 @@
+village_code_2011;village_name_2011;state_code_2011;district_code_2011;sub_district_code_2011;village_code_2001;village_name_2001;state_code_2001;district_code_2001;sub_district_code_2001
+627057;Pavoor;32;588;5630;200;Pavoor;32;1;1
+627058;Vorkady;32;588;5630;300;Vorkady;32;1;1
+627059;Pathur;32;588;5630;400;Pathur;32;1;1
+627060;Kodalamogaru;32;588;5630;500;Kodalamogaru;32;1;1
+627061;Koliyoor;32;588;5630;600;Koliyoor;32;1;1
+627062;Kaliyoor;32;588;5630;700;Kaliyoor;32;1;1
+627063;Talikala;32;588;5630;800;Talikala;32;1;1
+627064;Meenja;32;588;5630;900;Meenja;32;1;1
+627065;Kadambar;32;588;5630;1000;Kadambar;32;1;1
+627066;Moodambail;32;588;5630;1100;Moodambail;32;1;1
+627067;Kuloor;32;588;5630;1200;Kuloor;32;1;1
+627068;Majibail;32;588;5630;1300;Majibail;32;1;1
+627069;Badaje;32;588;5630;1400;Badaje;32;1;1
+627070;Mulinja;32;588;5630;1600;Mulinja;32;1;1
+627071;Kodibail;32;588;5630;1700;Kodibail;32;1;1
+627072;Ichilangod;32;588;5630;2000;Ichilangod;32;1;1
+627073;Heroor;32;588;5630;2100;Heroor;32;1;1
+627074;Kubanoor;32;588;5630;2200;Kubanoor;32;1;1
+627075;Bekoor;32;588;5630;2300;Bekoor;32;1;1
+627076;Kayyar;32;588;5630;2400;Kayyar;32;1;1
+627077;Kudalmarkala;32;588;5630;2500;Kudalmarkala;32;1;1
+627078;Paivalike;32;588;5630;2600;Paivalike;32;1;1
+627079;Chippar;32;588;5630;2700;Chippar;32;1;1
+627080;Bayar;32;588;5630;2800;Bayar;32;1;1
+627081;Badoor;32;588;5630;2900;Badoor;32;1;1
+627082;Angadimogaru;32;588;5630;3000;Angadimogaru;32;1;1
+627083;Mugu;32;588;5630;3100;Mugu;32;1;1
+627084;Maire;32;588;5630;3200;Maire;32;1;1
+627085;Enmakaje;32;588;5630;3300;Enmakaje;32;1;1
+627086;Kattukukke;32;588;5630;3400;Kattukukke;32;1;1
+627087;Padre;32;588;5630;3500;Padre;32;1;1
+627088;Badiyadka;32;588;5630;3600;Badiyadka;32;1;1
+627089;Nirchal;32;588;5630;3700;Nirchal;32;1;1
+627090;Bela;32;588;5630;3800;Bela;32;1;1
+627091;Puthige;32;588;5630;3900;Puthige;32;1;1
+627092;Edanad;32;588;5630;4000;Edanad;32;1;1
+627093;Kannur;32;588;5630;4100;Kannur;32;1;1
+627094;Kidoor;32;588;5630;4200;Kidoor;32;1;1
+627095;Ujarulvar;32;588;5630;4300;Ujarulvar;32;1;1
+627096;Bombrana;32;588;5630;4400;Bombrana;32;1;1
+627097;Arikady;32;588;5630;4500;Arikady;32;1;1
+627098;Ichilampady;32;588;5630;4600;Ichilampady;32;1;1
+627099;Patla;32;588;5630;5200;Patla;32;1;1
+627100;Kalnad;32;588;5630;5300;Kalnad;32;1;1
+627101;Perumbala;32;588;5630;5500;Perumbala;32;1;1
+627102;Thekkil;32;588;5630;5600;Thekkil;32;1;1
+627103;Muttathody;32;588;5630;5700;Muttathody;32;1;1
+627104;Pady;32;588;5630;5900;Pady;32;1;1
+627105;Nekraje;32;588;5630;6000;Nekraje;32;1;1
+627106;Ubrangala;32;588;5630;6100;Ubrangala;32;1;1
+627107;Kumbadaje;32;588;5630;6200;Kumbadaje;32;1;1
+627108;Nettanige;32;588;5630;6300;Nettanige;32;1;1
+627109;Bellur;32;588;5630;6400;Bellur;32;1;1
+627110;Adhur;32;588;5630;6500;Adhur;32;1;1
+627111;Karadka;32;588;5630;6600;Karadka;32;1;1
+627112;Muliyar;32;588;5630;6700;Muliyar;32;1;1
+627113;Kolathur;32;588;5630;6800;Kolathur;32;1;1
+627114;Bedadka;32;588;5630;6900;Bedadka;32;1;1
+627115;Munnad;32;588;5630;7000;Munnad;32;1;1
+627116;Kuttikole;32;588;5630;7100;Kuttikole;32;1;1
+627117;Karivedakam;32;588;5630;7200;Karivedakam;32;1;1
+627118;Bandadka;32;588;5630;7300;Bandadka;32;1;1
+627119;Adoor;32;588;5630;7400;Adoor;32;1;1
+627120;Delampady;32;588;5630;7500;Delampady;32;1;1
+627121;Kunjathur (CT);32;588;5630;100;Kunjathur;32;1;1
+627122;Manjeshwar (CT);32;588;5630;40101000;Manjeshwar (CT);32;1;1
+627123;Hosabettu (CT);32;588;5630;40102000;Hosabettu (CT);32;1;1
+627124;Bangra Manjeshwar (CT);32;588;5630;40103000;Bangramanjeshwar (CT);32;1;1
+627125;Uppala (CT);32;588;5630;1500;Uppala;32;1;1
+627126;Mangalpady (CT);32;588;5630;1800;Mangalpady;32;1;1
+627127;Shiriya (CT);32;588;5630;1900;Shiriya;32;1;1
+627128;Koipady (CT);32;588;5630;4700;Koipady;32;1;1
+627129;Mogral (CT);32;588;5630;4800;Mogral;32;1;1
+627130;Puthur (CT);32;588;5630;4900;Puthur;32;1;1
+627131;Shiribagilu (CT);32;588;5630;5000;Shiribagilu;32;1;1
+627132;Madhur (CT);32;588;5630;5100;Madhur;32;1;1
+627133;Kudlu (CT);32;588;5630;40104000;Kudlu (CT);32;1;1
+627134;Chengala (CT);32;588;5630;5800;Chengala;32;1;1
+627135;Chemnad (CT);32;588;5630;5400;Chemnad;32;1;1
+627136;Pallikkara II;32;588;5631;7700;Pallikkara II;32;1;2
+627137;Panayal;32;588;5631;7800;Panayal;32;1;2
+627138;Chithari;32;588;5631;8100;Chithari;32;1;2
+627139;Periya;32;588;5631;8200;Periya;32;1;2
+627140;Pullur;32;588;5631;8300;Pullur;32;1;2
+627141;Bellur;32;588;5631;8400;Bellur;32;1;2
+627142;Kodom;32;588;5631;8500;Kodom;32;1;2
+627143;Kallar;32;588;5631;8600;Kallar;32;1;2
+627144;Panathady;32;588;5631;8700;Panathady;32;1;2
+627145;Balal;32;588;5631;8800;Balal;32;1;2
+627146;Maloth ;32;588;5631;8900;Maloth ;32;1;2
+627147;West Eleri;32;588;5631;9000;West Eleri;32;1;2
+627148;Palavayal;32;588;5631;9100;Palavayal;32;1;2
+627149;Chittarikkal;32;588;5631;9200;Chittarikkal;32;1;2
+627150;Bheemanady;32;588;5631;9300;Bheemanady;32;1;2
+627151;Parappa ;32;588;5631;9400;Parappa ;32;1;2
+627152;Thayanur;32;588;5631;9500;Thayanur;32;1;2
+627153;Ambalathara;32;588;5631;9600;Ambalathara;32;1;2
+627154;Madikai;32;588;5631;9800;Madikai;32;1;2
+627155;Kinanoor;32;588;5631;9900;Kinanoor;32;1;2
+627156;Karindalam;32;588;5631;10000;Karindalam;32;1;2
+627157;Cheemeni II;32;588;5631;10100;Cheemeni II;32;1;2
+627158;Cheemeni ;32;588;5631;10200;Cheemeni ;32;1;2
+627159;Kayyur;32;588;5631;10300;Kayyur;32;1;2
+627160;Kilayikode;32;588;5631;10400;Kilayikode;32;1;2
+627161;Thimiri;32;588;5631;10500;Thimiri;32;1;2
+627162;Kodakkad;32;588;5631;10600;Kodakkad;32;1;2
+627163;Padne;32;588;5631;10900;Padne;32;1;2
+627164;Udinoor;32;588;5631;11000;Udinoor;32;1;2
+627165;Bare (CT);32;588;5631;7600;Bare;32;1;2
+627166;Udma (CT);32;588;5631;40106000;Udma (CT);32;1;2
+627167;Pallikkara (CT);32;588;5631;7900;Pallikkara ;32;1;2
+627168;Keekan (CT);32;588;5631;8000;Keekan;32;1;2
+627169;Ajanur (CT);32;588;5631;9700;Ajanur;32;1;2
+627170;Perole (CT);32;588;5631;40107000;Perole  (OG);32;1;2
+627171;Pilicode (CT);32;588;5631;10700;Pilicode;32;1;2
+627172;Maniyat (CT);32;588;5631;10800;Maniyat;32;1;2
+627173;North Thrikkaripur (CT);32;588;5631;11100;North Thrikkaripur;32;1;2
+627174;South Thrikkaripur (CT);32;588;5631;11200;South Thrikkaripur;32;1;2
+627175;Nileshwar (OG);32;588;5631;40107000;Nileshwar  (OG);32;1;2
+627176;Cheruvathur (OG)  ;32;588;5631;40107000;Cheruvathur  (OG);32;1;2
+627177;Ramanthali;32;589;5632;11300;Ramanthali;32;2;1
+627178;Peralam;32;589;5632;11500;Peralam;32;2;1
+627179;Kankole;32;589;5632;11600;Kankole;32;2;1
+627180;Alapadamba;32;589;5632;11700;Alapadamba;32;2;1
+627181;Eramam;32;589;5632;11800;Eramam;32;2;1
+627182;Perinthatta;32;589;5632;11900;Perinthatta;32;2;1
+627183;Kuttoor;32;589;5632;12000;Kuttoor;32;2;1
+627184;Vellora;32;589;5632;12100;Vellora;32;2;1
+627185;Peringome;32;589;5632;12200;Peringome;32;2;1
+627186;Thimiri;32;589;5632;12300;Thimiri;32;2;1
+627187;Vayakkara;32;589;5632;12400;Vayakkara;32;2;1
+627188;Pulingome;32;589;5632;12500;Pulingome;32;2;1
+627189;Thirumeni;32;589;5632;12600;Thirumeni;32;2;1
+627190;Alakode;32;589;5632;12700;Alakode;32;2;1
+627191;Vellad;32;589;5632;12800;Vellad;32;2;1
+627192;New Naduvil;32;589;5632;12900;New Naduvil;32;2;1
+627193;Kooveri;32;589;5632;13000;Kooveri;32;2;1
+627194;Panniyoor;32;589;5632;13100;Panniyoor;32;2;1
+627195;Kuttiyeri;32;589;5632;13200;Kuttiyeri;32;2;1
+627196;Pattuvam;32;589;5632;13400;Pattuvam;32;2;1
+627197;Chuzhali;32;589;5632;13600;Chuzhali;32;2;1
+627198;Nediyanga;32;589;5632;13700;Nediyanga;32;2;1
+627199;Eruvassy;32;589;5632;13800;Eruvassy;32;2;1
+627200;Payyavoor;32;589;5632;13900;Payyavoor;32;2;1
+627201;Nuchiyad;32;589;5632;14000;Nuchiyad;32;2;1
+627202;Vayathur;32;589;5632;14100;Vayathur;32;2;1
+627203;Padiyoor;32;589;5632;14200;Padiyoor;32;2;1
+627204;Kalliad;32;589;5632;14300;Kalliad;32;2;1
+627205;Sreekandapuram;32;589;5632;14500;Sreekandapuram;32;2;1
+627206;Malapattam;32;589;5632;14600;Malapattam;32;2;1
+627207;Chengalai;32;589;5632;14700;Chengalai;32;2;1
+627208;Kayaralam;32;589;5632;14800;Kayaralam;32;2;1
+627209;Karivellur (CT);32;589;5632;11400;Karivellur;32;2;1
+627210;Pariyaram (CT);32;589;5632;13300;Pariyaram;32;2;1
+627211;Kurumathur (CT);32;589;5632;13500;Kurumathur;32;2;1
+627212;Irikkur (CT);32;589;5632;14400;Irikkur;32;2;1
+627213;Kuttiattoor (CT);32;589;5632;15100;Kuttiattoor;32;2;1
+627214;Mayyil (CT);32;589;5632;15000;Mayyil;32;2;1
+627215;Kolacherry (CT);32;589;5632;14900;Kolacherry;32;2;1
+627216;Cheleri (CT);32;589;5632;15300;Cheleri;32;2;1
+627217;Maniyoor (CT);32;589;5632;15200;Maniyoor;32;2;1
+627218;Panapuzha;32;589;5633;15400;Panapuzha;32;2;2
+627219;Mattool;32;589;5633;16000;Mattool;32;2;2
+627220;Kunhimangalam (CT);32;589;5633;15600;Kunhimangalam;32;2;2
+627221;Cheruthazham (CT);32;589;5633;40203000;Cheruthazham (CT);32;2;2
+627222;Kadannappalli (CT);32;589;5633;15500;Kadannappalli;32;2;2
+627223;Ezhome (CT);32;589;5633;15800;Ezhome;32;2;2
+627224;Madayi (CT);32;589;5633;15700;Madayi;32;2;2
+627225;Cherukunnu (CT);32;589;5633;15900;Cherukunnu;32;2;2
+627226;Kannapuram (CT);32;589;5633;40204000;Kannapuram (CT);32;2;2
+627227;Narath (CT);32;589;5633;40211000;Narath (CT);32;2;2
+627228;Pappinisseri (CT);32;589;5633;40206000;Pappinisseri (CT);32;2;2
+627229;Kalliasseri (CT);32;589;5633;40205000;Kalliasseri (CT);32;2;2
+627230;Azhikode North (CT);32;589;5633;40207000;Azhikode North (CT);32;2;2
+627231;Azhikode South (CT);32;589;5633;40208000;Azhikode South (CT);32;2;2
+627232;Valapattanam (CT);32;589;5633;40209000;Valapattanam (CT);32;2;2
+627233;Chirakkal (CT);32;589;5633;40210000;Chirakkal (CT);32;2;2
+627234;Kannadiparamba (CT);32;589;5633;40212000;Kannadiparamba (CT);32;2;2
+627235;Munderi (CT);32;589;5633;40219000;Munderi (CT);32;2;2
+627236;Kanhirode (CT);32;589;5633;40220000;Kanhirode (CT);32;2;2
+627237;Varam (CT);32;589;5633;40218000;Varam (CT);32;2;2
+627238;Puzhathi (CT);32;589;5633;40213000;Puzhathi (CT);32;2;2
+627239;Pallikkunnu (CT);32;589;5633;40214000;Pallikkunnu (CT);32;2;2
+627240;Elayavoor (CT);32;589;5633;40217000;Elayavoor (CT);32;2;2
+627241;Chelora (CT);32;589;5633;40221000;Chelora (CT);32;2;2
+627242;Ancharakandy (CT);32;589;5633;40225000;Ancharakandy (CT);32;2;2
+627243;Iriveri (CT);32;589;5633;40224000;Iriveri (CT);32;2;2
+627244;Chala (CT);32;589;5633;40223000;Chala (CT);32;2;2
+627245;Thottada (CT);32;589;5633;40222000;Thottada (CT);32;2;2
+627246;Kadachira (CT);32;589;5633;40228000;Kadachira (CT);32;2;2
+627247;Mavilayi (CT);32;589;5633;40227000;Mavilayi (CT);32;2;2
+627248;Peralassery (CT);32;589;5633;40226000;Peralasseri (CT);32;2;2
+627249;Muzhappilangad (CT);32;589;5633;40229000;Muzhappilangad (CT);32;2;2
+627250;Pattannur;32;589;5634;16100;Pattannur;32;2;3
+627251;Chavassery;32;589;5634;16400;Chavassery;32;2;3
+627252;Keezhur;32;589;5634;16500;Keezhur;32;2;3
+627253;Payam;32;589;5634;16600;Payam;32;2;3
+627254;Vilamana;32;589;5634;16700;Vilamana;32;2;3
+627255;Ayyankunnu;32;589;5634;16800;Ayyankunnu;32;2;3
+627256;Aralam;32;589;5634;16900;Aralam;32;2;3
+627257;Kottiyoor;32;589;5634;17000;Kottiyoor;32;2;3
+627258;Kelakam;32;589;5634;17100;Kelakam;32;2;3
+627259;Kanichar;32;589;5634;17200;Kanichar;32;2;3
+627260;Manathana;32;589;5634;17300;Manathana;32;2;3
+627261;Muzhakkunnu;32;589;5634;17400;Muzhakkunnu;32;2;3
+627262;Thillenkeri;32;589;5634;17500;Thillenkeri;32;2;3
+627263;Tholambra;32;589;5634;17600;Tholambra;32;2;3
+627264;Vellarvelly;32;589;5634;17700;Vellarvelly;32;2;3
+627265;Vekkalam;32;589;5634;17800;Vekkalam;32;2;3
+627266;Koloyad;32;589;5634;17900;Koloyad;32;2;3
+627267;Kannavam;32;589;5634;18000;Kannavam;32;2;3
+627268;Sivapuram;32;589;5634;18100;Sivapuram;32;2;3
+627269;Cheruvanchery;32;589;5634;18700;Cheruvanchery;32;2;3
+627270;Puthoor;32;589;5634;18800;Puthoor;32;2;3
+627271;Thrippangottur;32;589;5634;19000;Thrippangottur;32;2;3
+627272;Koodali (CT);32;589;5634;16200;Koodali;32;2;3
+627273;Keezhallur (CT);32;589;5634;16300;Keezhallur;32;2;3
+627274;Paduvilayi (CT);32;589;5634;40231000;Paduvilayi (CT);32;2;3
+627275;Pathiriyad (CT);32;589;5634;40232000;Pathiriyad (CT);32;2;3
+627276;Mangattidam (CT);32;589;5634;18200;Mangattidam;32;2;3
+627277;Kandamkunnu (CT);32;589;5634;18400;Kandamkunnu;32;2;3
+627278;Manantheri (CT);32;589;5634;18500;Manantheri;32;2;3
+627279;Kottayam-Malabar (CT);32;589;5634;40234000;Kottayam-Malabar (CT);32;2;3
+627280;Eruvatti (CT);32;589;5634;18300;Eruvatti;32;2;3
+627281;Pinarayi (CT);32;589;5634;40233000;Pinarayi (CT);32;2;3
+627282;Dharmadom (CT);32;589;5634;40239000;Dharmadom (CT);32;2;3
+627283;Eranholi (CT);32;589;5634;40238000;Eranholi (CT);32;2;3
+627284;Kadirur (CT);32;589;5634;40237000;Kadirur (CT);32;2;3
+627285;Pattiom (CT);32;589;5634;40236000;Pattiom (CT);32;2;3
+627286;Mokeri (CT);32;589;5634;18600;Mokeri;32;2;3
+627287;Kolavelloor (CT);32;589;5634;18900;Kolavelloor;32;2;3
+627288;Panoor (CT);32;589;5634;40244000;Panoor (CT);32;2;3
+627289;Panniyannur (CT);32;589;5634;40243000;Panniyannur (CT);32;2;3
+627290;New Mahe (CT);32;589;5634;40241000;New Mahe (CT);32;2;3
+627291;Chockli (CT);32;589;5634;40242000;Chockli  (CT);32;2;3
+627292;Peringathur (CT);32;589;5634;40245000;Peringathur (CT);32;2;3
+627293;Thirunelly;32;590;5635;19100;Thirunelly;32;3;1
+627294;Thrissilery;32;590;5635;19200;Thrissilery;32;3;1
+627295;Payyampally;32;590;5635;19300;Payyampally;32;3;1
+627296;Mananthavady;32;590;5635;19400;Mananthavady;32;3;1
+627297;Thavinhal;32;590;5635;19500;Thavinhal;32;3;1
+627298;Periya;32;590;5635;19600;Periya;32;3;1
+627299;Thondernad;32;590;5635;19700;Thondernad;32;3;1
+627300;Valat;32;590;5635;19800;Valat;32;3;1
+627301;Edavaka;32;590;5635;19900;Edavaka;32;3;1
+627302;Nalloornad;32;590;5635;20000;Nalloornad;32;3;1
+627303;Cherukottur;32;590;5635;20100;Cherukottur;32;3;1
+627304;Panamaram;32;590;5635;20200;Panamaram;32;3;1
+627305;Anchukunnu;32;590;5635;20300;Anchukunnu;32;3;1
+627306;Porunnanore;32;590;5635;20400;Porunnanore;32;3;1
+627307;Vellamunda;32;590;5635;20500;Vellamunda;32;3;1
+627308;Kanjirangad;32;590;5635;20600;Kanjirangad;32;3;1
+627309;Nadavayal ;32;590;5636;20700;Nadavayal ;32;3;2
+627310;Poothadi;32;590;5636;20800;Poothadi;32;3;2
+627311;Pulpalli;32;590;5636;20900;Pulpalli;32;3;2
+627312;Padichira;32;590;5636;21000;Padichira;32;3;2
+627313;Kidanganad;32;590;5636;21100;Kidanganad;32;3;2
+627314;Irulam;32;590;5636;21200;Irulam;32;3;2
+627315;Purakkadi ;32;590;5636;21300;Purakkadi ;32;3;2
+627316;Krishnagiri;32;590;5636;21400;Krishnagiri;32;3;2
+627317;Sulthanbathery;32;590;5636;21500;Sulthanbathery;32;3;2
+627318;Kuppadi;32;590;5636;21600;Kuppadi;32;3;2
+627319;Noolpuzha;32;590;5636;21700;Noolpuzha;32;3;2
+627320;Cheeral;32;590;5636;21800;Cheeral;32;3;2
+627321;Nenmeni;32;590;5636;21900;Nenmeni;32;3;2
+627322;Ambalavayal;32;590;5636;22000;Ambalavayal;32;3;2
+627323;Thomattuchal;32;590;5636;22100;Thomattuchal;32;3;2
+627324;Padinharethara;32;590;5637;22200;Padinharethara;32;3;3
+627325;Kuppadithara;32;590;5637;22300;Kuppadithara;32;3;3
+627326;Kottathara ;32;590;5637;22400;Kottathara ;32;3;3
+627327;Kaniambetta;32;590;5637;22500;Kaniambetta;32;3;3
+627328;Muttil North ;32;590;5637;22600;Muttil North ;32;3;3
+627329;Muttil South;32;590;5637;22700;Muttil South;32;3;3
+627330;Vengappally;32;590;5637;22800;Vengappally;32;3;3
+627331;Kavumannam;32;590;5637;22900;Kavumannam;32;3;3
+627332;Thariyode;32;590;5637;23000;Thariyode;32;3;3
+627333;Achooranam;32;590;5637;23100;Achooranam;32;3;3
+627334;Pozhuthana;32;590;5637;23200;Pozhuthana;32;3;3
+627335;Kunnathidavaka;32;590;5637;23300;Kunnathidavaka;32;3;3
+627336;Chundale;32;590;5637;23400;Chundale;32;3;3
+627337;Kottappadi (Part);32;590;5637;23500;Kottappadi (Part);32;3;3
+627338;Thrikkaipatta (Part);32;590;5637;23600;Thrikkaipatta (Part);32;3;3
+627339;Muppainad;32;590;5637;23700;Muppainad;32;3;3
+627340;Vellarimala;32;590;5637;23800;Vellarimala;32;3;3
+627341;Onchiam;32;591;5638;24000;Onchiam;32;4;1
+627342;Vanimel;32;591;5638;24700;Vanimel;32;4;1
+627343;Vilangad;32;591;5638;24800;Vilangad;32;4;1
+627344;Thinoor;32;591;5638;24900;Thinoor;32;4;1
+627345;Kavilumpara;32;591;5638;25000;Kavilumpara;32;4;1
+627346;Kayakkodi;32;591;5638;25100;Kayakkodi;32;4;1
+627347;Narippatta;32;591;5638;25200;Narippatta;32;4;1
+627348;Purameri;32;591;5638;25500;Purameri;32;4;1
+627349;Thiruvallur;32;591;5638;25900;Thiruvallur;32;4;1
+627350;Velom;32;591;5638;26000;Velom;32;4;1
+627351;Kuttiadi;32;591;5638;26100;Kuttiadi;32;4;1
+627352;Maruthonkara;32;591;5638;26200;Maruthonkara;32;4;1
+627353;Valayam (CT);32;591;5638;24600;Valayam;32;4;1
+627354;Chekkiad (CT);32;591;5638;24500;Chekkiad;32;4;1
+627355;Thuneri (CT);32;591;5638;24400;Thuneri;32;4;1
+627356;Kunnummal (CT);32;591;5638;25300;Kunnummal;32;4;1
+627357;Nadapuram (CT);32;591;5638;25400;Nadapuram;32;4;1
+627358;Edacheri (CT);32;591;5638;24300;Edacheri;32;4;1
+627359;Eramala (CT);32;591;5638;24200;Eramala;32;4;1
+627360;Azhiyur (CT);32;591;5638;23900;Azhiyur;32;4;1
+627361;Chorode (CT);32;591;5638;24100;Chorode;32;4;1
+627362;Ayancheri (CT);32;591;5638;25600;Ayancheri;32;4;1
+627363;Kottappally (CT);32;591;5638;25700;Kottappally;32;4;1
+627364;Villiappally (CT);32;591;5638;40401000;Villiappally (CT);32;4;1
+627365;Palayad (CT);32;591;5638;40403000;Palayad (CT);32;4;1
+627366;Maniyur (CT);32;591;5638;25800;Maniyur;32;4;1
+627367;Payyoli;32;591;5639;26400;Payyoli;32;4;2
+627368;Cheruvannur;32;591;5639;26700;Cheruvannur;32;4;2
+627369;Palery;32;591;5639;26900;Palery;32;4;2
+627370;Changaroth;32;591;5639;27000;Changaroth;32;4;2
+627371;Chempanoda;32;591;5639;27100;Chempanoda;32;4;2
+627372;Chakkittapara;32;591;5639;27200;Chakkittapara;32;4;2
+627373;Perambra;32;591;5639;27300;Perambra;32;4;2
+627374;Nochad;32;591;5639;27600;Nochad;32;4;2
+627375;Moodadi;32;591;5639;28000;Moodadi;32;4;2
+627376;Arikkulam (Part);32;591;5639;28100;Arikkulam (Part);32;4;2
+627377;Kottur;32;591;5639;28300;Kottur;32;4;2
+627378;Kayanna ;32;591;5639;28400;Kayanna ;32;4;2
+627379;Koorachundu ;32;591;5639;28500;Koorachundu ;32;4;2
+627380;Kanthalad ;32;591;5639;28600;Kanthalad ;32;4;2
+627381;Avitanallur;32;591;5639;28700;Avitanallur;32;4;2
+627382;Chengottukavu;32;591;5639;28900;Chengottukavu;32;4;2
+627383;Kinalur;32;591;5639;29400;Kinalur;32;4;2
+627384;Unnikulam;32;591;5639;29500;Unnikulam;32;4;2
+627385;Sivapuram;32;591;5639;29600;Sivapuram;32;4;2
+627386;Iringal (CT);32;591;5639;26300;Iringal;32;4;2
+627387;Eravattur (CT);32;591;5639;26800;Eravattur;32;4;2
+627388;Koothali (CT);32;591;5639;27400;Koothali;32;4;2
+627389;Menhaniam (CT);32;591;5639;27500;Menhaniam;32;4;2
+627390;Meppayyur (CT);32;591;5639;27700;Meppayyur;32;4;2
+627391;Kozhukkallur (CT);32;591;5639;27800;Kozhukkallur;32;4;2
+627392;Thurayur (CT);32;591;5639;26600;Thurayur;32;4;2
+627393;Thikkody (CT);32;591;5639;26500;Thikkody;32;4;2
+627394;Keezhariyur (CT);32;591;5639;27900;Keezhariyur;32;4;2
+627395;Naduvannur (CT);32;591;5639;28200;Naduvannur;32;4;2
+627396;Panangad (CT);32;591;5639;29300;Panangad;32;4;2
+627397;Balusseri (CT);32;591;5639;29200;Balusseri;32;4;2
+627398;Ulliyeri (CT);32;591;5639;28800;Ulliyeri;32;4;2
+627399;Chemancheri (CT);32;591;5639;29000;Chemancheri;32;4;2
+627400;Atholi (CT);32;591;5639;29100;Atholi;32;4;2
+627401;Kakkur;32;591;5640;29900;Kakkur;32;4;3
+627402;Narikkuni;32;591;5640;30000;Narikkuni;32;4;3
+627403;Kizhakkoth;32;591;5640;30100;Kizhakkoth;32;4;3
+627404;Vavad;32;591;5640;30200;Vavad;32;4;3
+627405;Raroth;32;591;5640;30300;Raroth;32;4;3
+627406;Kedavur;32;591;5640;30400;Kedavur;32;4;3
+627407;Puthuppadi;32;591;5640;30500;Puthuppadi;32;4;3
+627408;Engapuzha;32;591;5640;30600;Engapuzha;32;4;3
+627409;Koodathayi ;32;591;5640;30700;Koodathayi ;32;4;3
+627410;Kodencheri;32;591;5640;30800;Kodencheri;32;4;3
+627411;Nellipoyil;32;591;5640;30900;Nellipoyil;32;4;3
+627412;Koodaranji;32;591;5640;31000;Koodaranji;32;4;3
+627413;Thiruvambadi;32;591;5640;31100;Thiruvambadi;32;4;3
+627414;Neeleswaram ;32;591;5640;31200;Neeleswaram ;32;4;3
+627415;Puthur;32;591;5640;31300;Puthur;32;4;3
+627416;Chathamangalam ;32;591;5640;31400;Chathamangalam ;32;4;3
+627417;Madavoor;32;591;5640;31500;Madavoor;32;4;3
+627418;Kumaranallur;32;591;5640;32000;Kumaranallur;32;4;3
+627419;Kakkad;32;591;5640;32100;Kakkad;32;4;3
+627420;Kodiyathur;32;591;5640;32200;Kodiyathur;32;4;3
+627421;Nanmanda (CT);32;591;5640;29800;Nanmanda;32;4;3
+627422;Chelannur (CT);32;591;5640;31600;Chelannur;32;4;3
+627423;Thalakkulathur (CT);32;591;5640;29700;Thalakkulathur;32;4;3
+627424;Kakkodi (CT);32;591;5640;40405000;Kakkodi  (OG);32;4;3
+627425;Kuruvattur (CT);32;591;5640;31700;Kuruvattur;32;4;3
+627426;Kunnamangalam (CT);32;591;5640;40405000;Kunnamangalam  (OG);32;4;3
+627427;Poolacode (CT);32;591;5640;31800;Poolacode;32;4;3
+627428;Thazhecode (CT);32;591;5640;31900;Thazhecode;32;4;3
+627429;Mavoor (CT);32;591;5640;40406000;Mavoor (CT);32;4;3
+627430;Peruvayal (CT);32;591;5640;32300;Peruvayal;32;4;3
+627431;Kuttikkattoor (CT);32;591;5640;32400;Kuttikkattoor;32;4;3
+627432;Olavanna (CT);32;591;5640;40408000;Olavanna (CT);32;4;3
+627433;Pantheeramkavu (CT);32;591;5640;40407000;Pantheeramkavu (CT);32;4;3
+627434;Perumanna (CT);32;591;5640;32500;Perumanna;32;4;3
+627435;Ramanattukara (CT);32;591;5640;40413000;Ramanattukara (CT);32;4;3
+627436;Cheruvannur (CT);32;591;5640;40409000;Cheruvannur (CT);32;4;3
+627437;Beypore (CT);32;591;5640;40410000;Beypore (CT);32;4;3
+627438;Karuvanthuruthy (CT);32;591;5640;40411000;Karuvanthuruthy (CT);32;4;3
+627439;Feroke (CT);32;591;5640;40412000;Feroke(CT);32;4;3
+627440;Koduvally (OG);32;591;5640;40405000;Koduvally  (OG);32;4;3
+627441;Elathur (OG);32;591;5640;40405000;Elathur  (OG);32;4;3
+627442;Kadalundi (OG);32;591;5640;40405000;Kadalundi  (OG);32;4;3
+645600;Puthiyangadi (OG) (Part);32;591;5640;;;32;4;3
+627443;Vettilappara;32;592;5641;32600;Vettilappara;32;5;1
+627444;Vazhakkad;32;592;5641;32800;Vazhakkad;32;5;1
+627445;Pulikkal;32;592;5641;33100;Pulikkal;32;5;1
+627446;Cheekkode;32;592;5641;33200;Cheekkode;32;5;1
+627447;Areekode;32;592;5641;33300;Areekode;32;5;1
+627448;Urangattiri;32;592;5641;33400;Urangattiri;32;5;1
+627449;Perakamanna;32;592;5641;33500;Perakamanna;32;5;1
+627450;Edavanna;32;592;5641;33600;Edavanna;32;5;1
+627451;Karakunnu;32;592;5641;33700;Karakunnu;32;5;1
+627452;Kavanoor;32;592;5641;33800;Kavanoor;32;5;1
+627453;Kuzhimanna;32;592;5641;33900;Kuzhimanna;32;5;1
+627454;Muthuvallur;32;592;5641;34000;Muthuvallur;32;5;1
+627455;Nediyiruppu;32;592;5641;34200;Nediyiruppu;32;5;1
+627456;Morayur;32;592;5641;34300;Morayur;32;5;1
+627457;Pookkottur;32;592;5641;34400;Pookkottur;32;5;1
+627458;Pulpatta;32;592;5641;34500;Pulpatta;32;5;1
+627459;Trikkalangode;32;592;5641;34600;Trikkalangode;32;5;1
+627460;Elankur;32;592;5641;34700;Elankur;32;5;1
+627461;Pandalur;32;592;5641;34800;Pandalur;32;5;1
+627462;Vettikkattiri;32;592;5641;34900;Vettikkattiri;32;5;1
+627463;Chembrasseri;32;592;5641;35000;Chembrasseri;32;5;1
+627464;Pandikkad;32;592;5641;35100;Pandikkad;32;5;1
+627465;Kizhuparamba (CT);32;592;5641;32700;Kizhuparamba ;32;5;1
+627466;Vazhayur (CT);32;592;5641;32900;Vazhayur;32;5;1
+627467;Cherukavu (CT);32;592;5641;33000;Cherukavu;32;5;1
+627468;Kondotty (CT);32;592;5641;34100;Kondotty;32;5;1
+627469;Anakkayam (OG);32;592;5641;40502000;Anakkayam  (OG);32;5;1
+627470;Pullipadam ;32;592;5642;35200;Pullipadam ;32;5;2
+627471;Akampadam;32;592;5642;35300;Akampadam;32;5;2
+627472;Kurumbilangode;32;592;5642;35400;Kurumbilangode;32;5;2
+627473;Chungathara;32;592;5642;35500;Chungathara;32;5;2
+627474;Edakkara;32;592;5642;35600;Edakkara;32;5;2
+627475;Vazhikkadavu;32;592;5642;35700;Vazhikkadavu;32;5;2
+627476;Amarambalam;32;592;5642;35800;Amarambalam;32;5;2
+627477;Karulai;32;592;5642;35900;Karulai;32;5;2
+627478;Mambad;32;592;5642;36100;Mambad;32;5;2
+627479;Thiruvali;32;592;5642;36200;Thiruvali;32;5;2
+627480;Porur;32;592;5642;36300;Porur;32;5;2
+627481;Wandoor;32;592;5642;36400;Wandoor;32;5;2
+627482;Chekkode;32;592;5642;36500;Chekkode;32;5;2
+627483;Kalikavu;32;592;5642;36600;Kalikavu;32;5;2
+627484;Vellayur;32;592;5642;36700;Vellayur;32;5;2
+627485;Thuvvur;32;592;5642;36800;Thuvvur;32;5;2
+627486;Kerala Estate;32;592;5642;36900;Kerala Estate;32;5;2
+627487;Karuvarakundu;32;592;5642;37000;Karuvarakundu;32;5;2
+627488;Nilambur (CT);32;592;5642;36000;Nilambur;32;5;2
+627489;Edappatta;32;592;5643;37100;Edappatta;32;5;3
+627490;Melattur;32;592;5643;37200;Melattur;32;5;3
+627491;Keezhattur;32;592;5643;37300;Keezhattur;32;5;3
+627492;Nenmini;32;592;5643;37400;Nenmini;32;5;3
+627493;Mankada;32;592;5643;37500;Mankada;32;5;3
+627494;Vadakkangara;32;592;5643;37600;Vadakkangara;32;5;3
+627495;Kuruva;32;592;5643;37900;Kuruva;32;5;3
+627496;Puzhakkattiri;32;592;5643;38000;Puzhakkattiri;32;5;3
+627497;Valambur;32;592;5643;38100;Valambur;32;5;3
+627498;Angadippuram;32;592;5643;38200;Angadippuram;32;5;3
+627499;Kariavattom;32;592;5643;38300;Kariavattom;32;5;3
+627500;Vettathur;32;592;5643;38400;Vettathur;32;5;3
+627501;Arakkuparamba;32;592;5643;38500;Arakkuparamba;32;5;3
+627502;Thazhekode;32;592;5643;38600;Thazhekode;32;5;3
+627503;Aliparamba;32;592;5643;38700;Aliparamba;32;5;3
+627504;Anamangad;32;592;5643;38800;Anamangad;32;5;3
+627505;Elamkulam;32;592;5643;38900;Elamkulam;32;5;3
+627506;Pulamanthole;32;592;5643;39000;Pulamanthole;32;5;3
+627507;Kuruvambalam;32;592;5643;39100;Kuruvambalam;32;5;3
+627508;Moorkkanad;32;592;5643;39200;Moorkkanad;32;5;3
+627509;Koottilangadi (CT);32;592;5643;37700;Koottilangadi;32;5;3
+627510;Kodur (CT);32;592;5643;37800;Kodur;32;5;3
+627511;Pariyapuram;32;592;5644;39300;Pariyapuram;32;5;4
+627512;Tanur ;32;592;5644;39400;Tanur ;32;5;4
+627513;Ozhur;32;592;5644;39500;Ozhur;32;5;4
+627514;Niramaruthur;32;592;5644;39900;Niramaruthur;32;5;4
+627515;Valavannur;32;592;5644;40100;Valavannur;32;5;4
+627516;Kalpakancheri;32;592;5644;40200;Kalpakancheri;32;5;4
+627517;Marakkara;32;592;5644;40300;Marakkara;32;5;4
+627518;Ponmala;32;592;5644;40500;Ponmala;32;5;4
+627519;Melmuri;32;592;5644;40600;Melmuri;32;5;4
+627520;Edayoor;32;592;5644;40700;Edayoor;32;5;4
+627521;Athavanad;32;592;5644;40900;Athavanad;32;5;4
+627522;Kurumbathur;32;592;5644;41000;Kurumbathur;32;5;4
+627523;Ananthavoor;32;592;5644;41100;Ananthavoor;32;5;4
+627524;Vettom;32;592;5644;41300;Vettom;32;5;4
+627525;Purathur;32;592;5644;41400;Purathur;32;5;4
+627526;Mangalam;32;592;5644;41500;Mangalam;32;5;4
+627527;Kottakkal (CT);32;592;5644;40400;Kottakkal;32;5;4
+627528;Perumanna (CT);32;592;5644;39600;Perumanna ;32;5;4
+627529;Ponmundam (CT);32;592;5644;39700;Ponmundam;32;5;4
+627530;Tanalur (CT);32;592;5644;39800;Tanalur;32;5;4
+627531;Cheriyamundam (CT);32;592;5644;40000;Cheriyamundam;32;5;4
+627532;Kattipparuthi (CT);32;592;5644;40800;Kattipparuthi;32;5;4
+627533;Talakkad (CT);32;592;5644;41200;Talakkad;32;5;4
+627534;Triprangode (CT);32;592;5644;41600;Triprangode;32;5;4
+627535;Thirunavaya (CT);32;592;5644;41700;Thirunavaya;32;5;4
+627536;Naduvattom (CT);32;592;5644;41800;Naduvattom;32;5;4
+627537;Kuttippuram (CT);32;592;5644;41900;Kuttippuram;32;5;4
+627538;Irimbiliyam (CT);32;592;5644;42000;Irimbiliyam;32;5;4
+627539;Vallikkunnu;32;592;5645;42100;Vallikkunnu;32;5;5
+627540;Parappanangadi ;32;592;5645;43300;Parappanangadi ;32;5;5
+627541;Chelambra (CT);32;592;5645;42400;Chelambra;32;5;5
+627542;Pallikal (CT);32;592;5645;42500;Pallikkal;32;5;5
+627543;Thenhippalam (CT);32;592;5645;42300;Thenhippalam;32;5;5
+627544;Ariyallur (CT);32;592;5645;42200;Ariyallur;32;5;5
+627545;Moonniyur (CT);32;592;5645;43100;Moonniyur;32;5;5
+627546;Peruvallur (CT);32;592;5645;42600;Peruvallur;32;5;5
+627547;Kannamangalam (CT);32;592;5645;42700;Kannamangalam;32;5;5
+627548;Urakam (CT);32;592;5645;42800;Urakam;32;5;5
+627549;Othukkungal (CT);32;592;5645;43800;Othukkungal;32;5;5
+627550;Parappur (CT);32;592;5645;43700;Parappur;32;5;5
+627551;Vengara (CT);32;592;5645;42900;Vengara;32;5;5
+627552;Abdu Rahiman Nagar (CT);32;592;5645;43000;Abdu Rahiman Nagar;32;5;5
+627553;Tirurangadi (CT);32;592;5645;43500;Tirurangadi;32;5;5
+627554;Neduva (CT);32;592;5645;43200;Neduva;32;5;5
+627555;Nannambra (CT);32;592;5645;43400;Nannambra;32;5;5
+627556;Thennala (CT);32;592;5645;43600;Thennala;32;5;5
+627557;Tavanur;32;592;5646;43900;Tavanur;32;5;6
+627558;Vattamkulam;32;592;5646;44100;Vattamkulam;32;5;6
+627559;Veliyankode;32;592;5646;44400;Veliyankode;32;5;6
+627560;Perumpadappa;32;592;5646;44500;Perumpadappa;32;5;6
+627561;Nannamukku;32;592;5646;44600;Nannamukku;32;5;6
+627562;Kalady (CT);32;592;5646;44000;Kalady;32;5;6
+627563;Edappal (CT);32;592;5646;44200;Edappal;32;5;6
+627564;Alamcode (CT);32;592;5646;44700;Alamcode;32;5;6
+627565;Marancheri (CT);32;592;5646;44300;Marancheri;32;5;6
+627566;Anakkara;32;593;5647;44800;Anakkara;32;6;1
+627567;Parudur;32;593;5647;44900;Parudur;32;6;1
+627568;Thiruvegapura;32;593;5647;45000;Thiruvegapura;32;6;1
+627569;Vilayur;32;593;5647;45100;Vilayur;32;6;1
+627570;Kulukkallur;32;593;5647;45200;Kulukkallur;32;6;1
+627571;Nellaya;32;593;5647;45300;Nellaya;32;6;1
+627572;Cherpulacherry;32;593;5647;45400;Cherpulacherry;32;6;1
+627573;Vellinezhi;32;593;5647;45500;Vellinezhi;32;6;1
+627574;Karimpuzha-I;32;593;5647;45600;Karimpuzha-I;32;6;1
+627575;Karimpuzha-II;32;593;5647;45700;Karimpuzha-II;32;6;1
+627576;Kadampazhipuram-II;32;593;5647;45800;Kadampazhipuram-II;32;6;1
+627577;Kadampazhipuram-I;32;593;5647;45900;Kadampazhipuram-I;32;6;1
+627578;Sreekrishnapuram -I;32;593;5647;46000;Sreekrishnapuram -I;32;6;1
+627579;Sreekrishnapuram -II;32;593;5647;46100;Sreekrishnapuram -II;32;6;1
+627580;Thrikkadeeri -II;32;593;5647;46200;Thrikkadeeri -II;32;6;1
+627581;Thrikkadeeri -I;32;593;5647;46300;Thrikkadeeri -I;32;6;1
+627582;Ananganadi;32;593;5647;46400;Ananganadi;32;6;1
+627583;Chalavara;32;593;5647;46500;Chalavara;32;6;1
+627584;Vallapuzha;32;593;5647;46600;Vallapuzha;32;6;1
+627585;Koppam;32;593;5647;46700;Koppam;32;6;1
+627586;Pattithara;32;593;5647;47000;Pattithara;32;6;1
+627587;Kappur;32;593;5647;47100;Kappur;32;6;1
+627588;Chalissery;32;593;5647;47200;Chalissery;32;6;1
+627589;Nagalassery;32;593;5647;47300;Nagalassery;32;6;1
+627590;Thirumittacode-I;32;593;5647;47500;Thirumittacode-I;32;6;1
+627591;Vaniyamkulam-I;32;593;5647;47900;Vaniyamkulam-I;32;6;1
+627592;Ambalapara - II;32;593;5647;48100;Ambalapara - II;32;6;1
+627593;Ambalapara - I;32;593;5647;48200;Ambalapara - I;32;6;1
+627594;Lakkidi-Perur- I ;32;593;5647;48300;Lakkidi-Perur- I ;32;6;1
+627595;Lakkidi-Perur- II ;32;593;5647;48400;Lakkidi-Perur- II ;32;6;1
+627596;Ongallur -II (CT);32;593;5647;47800;Ongallur -II;32;6;1
+627597;Ongallur -I (CT);32;593;5647;47700;Ongallur -I;32;6;1
+627598;Pattambi (CT);32;593;5647;47600;Pattambi;32;6;1
+627599;Muthuthala (CT);32;593;5647;46800;Muthuthala;32;6;1
+627600;Thrithala (CT);32;593;5647;46900;Thrithala;32;6;1
+627601;Vaniyamkulam- II (CT);32;593;5647;48000;Vaniyamkulam-II;32;6;1
+627602;Thirumittacode -II (CT);32;593;5647;47400;Thirumittacode -II;32;6;1
+627603;Alanallur-I;32;593;5648;48500;Alanallur-I;32;6;2
+627604;Alanallur-II;32;593;5648;48600;Alanallur-II;32;6;2
+627605;Alanallur-III;32;593;5648;48700;Alanallur-III;32;6;2
+627606;Kottoppadam-I;32;593;5648;48800;Kottoppadam-I;32;6;2
+627607;Kottoppadam-III;32;593;5648;48900;Kottoppadam-III;32;6;2
+627608;Payyanadam;32;593;5648;49000;Payyanadam;32;6;2
+627609;Padavayal;32;593;5648;49200;Padavayal;32;6;2
+627610;Pudur;32;593;5648;49300;Pudur;32;6;2
+627611;Agali;32;593;5648;49400;Agali;32;6;2
+627612;Kottathara;32;593;5648;49500;Kottathara;32;6;2
+627613;Sholayur;32;593;5648;49600;Sholayur;32;6;2
+627614;Kallamala;32;593;5648;49700;Kallamala;32;6;2
+627615;Palakkayam;32;593;5648;49800;Palakkayam;32;6;2
+627616;Mannarkad-II;32;593;5648;49900;Mannarkad-II;32;6;2
+627617;Pottassery- I;32;593;5648;50000;Pottassery- I;32;6;2
+627618;Pottassery- II;32;593;5648;50100;Pottassery- II;32;6;2
+627619;Thachampara;32;593;5648;50200;Thachampara;32;6;2
+627620;Karimba -I;32;593;5648;50300;Karimba -I;32;6;2
+627621;Karimba -II;32;593;5648;50400;Karimba -II;32;6;2
+627622;Karakurissi;32;593;5648;50500;Karakurissi;32;6;2
+627623;Kumaramputhur;32;593;5648;50600;Kumaramputhur;32;6;2
+627624;Kottoppadam-II;32;593;5648;50700;Kottoppadam-II;32;6;2
+627625;Thachanattukara-I;32;593;5648;50800;Thachanattukara-I;32;6;2
+627626;Thachanattukara-II;32;593;5648;50900;Thachanattukara-II;32;6;2
+627627;Mannarkad-I (CT);32;593;5648;49100;Mannarkad-I;32;6;2
+627628;Kongad-II;32;593;5649;51000;Kongad-II;32;6;3
+627629;Keralassery;32;593;5649;51100;Keralassery;32;6;3
+627630;Mannur;32;593;5649;51200;Mannur;32;6;3
+627631;Mankara;32;593;5649;51300;Mankara;32;6;3
+627632;Kongad-I;32;593;5649;51400;Kongad-I;32;6;3
+627633;Mundur-II;32;593;5649;51500;Mundur-II;32;6;3
+627634;Mundur-I;32;593;5649;51600;Mundur-I;32;6;3
+627635;Parli-I;32;593;5649;51700;Parli-I;32;6;3
+627636;Parli-II;32;593;5649;51800;Parli-II;32;6;3
+627637;Puthuppariyaram-I;32;593;5649;51900;Puthuppariyaram-I;32;6;3
+627638;Malampuzha-I;32;593;5649;52100;Malampuzha-I;32;6;3
+627639;Malampuzha-II;32;593;5649;52200;Malampuzha-II;32;6;3
+627640;Kannadi-I;32;593;5649;52400;Kannadi-I;32;6;3
+627641;Kannadi-II;32;593;5649;52500;Kannadi-II;32;6;3
+627642;Kodumba;32;593;5649;52600;Kodumba;32;6;3
+627643;Peruvemba;32;593;5649;52700;Peruvemba;32;6;3
+627644;Polpully;32;593;5649;52800;Polpully;32;6;3
+627645;Elappully-II;32;593;5649;52900;Elappully-II;32;6;3
+627646;Elappully-I;32;593;5649;53000;Elappully-I;32;6;3
+627647;Pudussery East;32;593;5649;53300;Pudussery East;32;6;3
+627648;Puthuppariyaram (CT);32;593;5649;40603000;Puthuppariyaram  (OG);32;6;3
+627649;Hemambikanagar (CT);32;593;5649;52000;Akathethara (Part);32;6;3
+627650;Pudussery Central (CT);32;593;5649;53200;Pudussery Central;32;6;3
+627651;Pudussery West (CT);32;593;5649;53100;Pudussery West;32;6;3
+627652;Marutharode (CT);32;593;5649;40603000;Marutharode  (OG);32;6;3
+627653;Pirayiri (CT);32;593;5649;52300;Pirayiri;32;6;3
+627654;Koduvayur-II;32;593;5650;53400;Koduvayur-II;32;6;4
+627655;Thathamangalam (Part);32;593;5650;53500;Thathamangalam (Part);32;6;4
+627656;Chittur (Part);32;593;5650;53600;Chittur (Part);32;6;4
+627657;Thekkedesom;32;593;5650;53700;Thekkedesom;32;6;4
+627658;Nalleppilly;32;593;5650;53800;Nalleppilly;32;6;4
+627659;Kozhinjampara;32;593;5650;53900;Kozhinjampara;32;6;4
+627660;Vadakarapathy;32;593;5650;54000;Vadakarapathy;32;6;4
+627661;Ozhalapathy;32;593;5650;54100;Ozhalapathy;32;6;4
+627662;Eruthempathy;32;593;5650;54200;Eruthempathy;32;6;4
+627663;Kozhipathy;32;593;5650;54300;Kozhipathy;32;6;4
+627664;Valiyavallampathy;32;593;5650;54400;Valiyavallampathy;32;6;4
+627665;Moolathara;32;593;5650;54500;Moolathara;32;6;4
+627666;Perumatty;32;593;5650;54600;Perumatty;32;6;4
+627667;Vandithavalam;32;593;5650;54700;Vandithavalam;32;6;4
+627668;Pattanchery;32;593;5650;54800;Pattanchery;32;6;4
+627669;Vadavannur;32;593;5650;54900;Vadavannur;32;6;4
+627670;Pallassana;32;593;5650;55000;Pallassana;32;6;4
+627671;Vallanghy;32;593;5650;55100;Vallanghy;32;6;4
+627672;Nemmara;32;593;5650;55200;Nemmara;32;6;4
+627673;Ayiloor;32;593;5650;55300;Ayiloor;32;6;4
+627674;Kairady;32;593;5650;55400;Kairady;32;6;4
+627675;Thiruvazhiyad;32;593;5650;55500;Thiruvazhiyad;32;6;4
+627676;Nelliyampathy;32;593;5650;55600;Nelliyampathy;32;6;4
+627677;Elavancherry;32;593;5650;55700;Elavancherry;32;6;4
+627678;Kollengode-II;32;593;5650;55800;Kollengode-II;32;6;4
+627679;Kollengode-I;32;593;5650;55900;Kollengode-I;32;6;4
+627680;Muthalamada-I;32;593;5650;56000;Muthalamada-I;32;6;4
+627681;Muthalamada-II;32;593;5650;56100;Muthalamada-II;32;6;4
+627682;Koduvayur (CT);32;593;5650;40605000;Koduvayur (OG) ;32;6;4
+627683;Puthunagaram (CT);32;593;5650;40604000;Puthunagaram (CT);32;6;4
+627684;Peringottukurissi-II;32;593;5651;56200;Peringottukurissi-II;32;6;5
+627685;Peringottukurissi-I;32;593;5651;56300;Peringottukurissi-I;32;6;5
+627686;Kottayi-I;32;593;5651;56400;Kottayi-I;32;6;5
+627687;Kottayi-II;32;593;5651;56500;Kottayi-II;32;6;5
+627688;Mathur -I;32;593;5651;56600;Mathur -I;32;6;5
+627689;Mathur -II;32;593;5651;56700;Mathur -II;32;6;5
+627690;Kuzhalmannam-II;32;593;5651;56800;Kuzhalmannam-II;32;6;5
+627691;Thenkurissi-I;32;593;5651;56900;Thenkurissi-I;32;6;5
+627692;Thenkurissi-II ;32;593;5651;57000;Thenkurissi-II ;32;6;5
+627693;Kuzhalmannam-I;32;593;5651;57100;Kuzhalmannam-I;32;6;5
+627694;Kuthannur-I;32;593;5651;57200;Kuthannur-I;32;6;5
+627695;Kuthannur-II;32;593;5651;57300;Kuthannur-II;32;6;5
+627696;Tarur-I;32;593;5651;57400;Tarur-I;32;6;5
+627697;Tarur-II;32;593;5651;57500;Tarur-II;32;6;5
+627698;Erimayur-I ;32;593;5651;57600;Erimayur-I ;32;6;5
+627699;Erimayur-II;32;593;5651;57700;Erimayur-II;32;6;5
+627700;Melarcode ;32;593;5651;57800;Melarcode ;32;6;5
+627701;Kavasseri-I;32;593;5651;58000;Kavasseri-I;32;6;5
+627702;Kavasseri-II;32;593;5651;58100;Kavasseri-II;32;6;5
+627703;Puducode;32;593;5651;58200;Puducode;32;6;5
+627704;Kannambra-I;32;593;5651;58300;Kannambra-I;32;6;5
+627705;Kannambra-II;32;593;5651;58400;Kannambra-II;32;6;5
+627706;Vadakkancheri-I;32;593;5651;58500;Vadakkancheri-I;32;6;5
+627707;Vadakkancheri-II;32;593;5651;58600;Vadakkancheri-II;32;6;5
+627708;Vandazhi-II;32;593;5651;58700;Vandazhi-II;32;6;5
+627709;Vandazhi-I;32;593;5651;58800;Vandazhi-I;32;6;5
+627710;Mangalam Dam;32;593;5651;58900;Mangalam Dam;32;6;5
+627711;Kizhakkencheri-II;32;593;5651;59000;Kizhakkencheri-II;32;6;5
+627712;Kizhakkencheri-I;32;593;5651;59100;Kizhakkencheri-I;32;6;5
+627713;Alathur (CT);32;593;5651;57900;Alathur;32;6;5
+627714;Perumpilavu;32;594;5652;59400;Perumpilavu;32;7;1
+627715;Kadangode;32;594;5652;59500;Kadangode;32;7;1
+627716;Thichur;32;594;5652;59600;Thichur;32;7;1
+627717;Arangottukara;32;594;5652;59700;Arangottukara;32;7;1
+627718;Pallur;32;594;5652;59800;Pallur;32;7;1
+627719;Thalassery;32;594;5652;60000;Thalassery;32;7;1
+627720;Pilakkad;32;594;5652;60100;Pilakkad;32;7;1
+627721;Varavoor;32;594;5652;60200;Varavoor;32;7;1
+627722;Painkulam;32;594;5652;60500;Painkulam;32;7;1
+627723;Mayannur;32;594;5652;60600;Mayannur;32;7;1
+627724;Pampady;32;594;5652;60800;Pampady;32;7;1
+627725;Thiruvilwamala;32;594;5652;60900;Thiruvilwamala;32;7;1
+627726;Vadakkethara;32;594;5652;61000;Vadakkethara;32;7;1
+627727;Kondazhy;32;594;5652;61100;Kondazhy;32;7;1
+627728;Chelakode;32;594;5652;61200;Chelakode;32;7;1
+627729;Venganellur;32;594;5652;61300;Venganellur;32;7;1
+627730;Killimangalam;32;594;5652;61400;Killimangalam;32;7;1
+627731;Panjal;32;594;5652;61500;Panjal;32;7;1
+627732;Attoor;32;594;5652;61600;Attoor;32;7;1
+627733;Mullurkara;32;594;5652;61700;Mullurkara;32;7;1
+627734;Kanjirakode;32;594;5652;61800;Kanjirakode;32;7;1
+627735;Vellarakkad;32;594;5652;62300;Vellarakkad;32;7;1
+627736;Chowwannur(Part);32;594;5652;62500;Chowwannur(Part);32;7;1
+627737;Mangad (Part);32;594;5652;62900;Mangad (Part);32;7;1
+627738;Kanipayyur (Part);32;594;5652;63100;Kanipayyur (Part);32;7;1
+627739;Chemmanthatta;32;594;5652;63200;Chemmanthatta;32;7;1
+627740;Vellattanjur;32;594;5652;63800;Vellattanjur;32;7;1
+627741;Thayyur;32;594;5652;63900;Thayyur;32;7;1
+627742;Kiralur;32;594;5652;64100;Kiralur;32;7;1
+627743;Parlikad;32;594;5652;64500;Parlikad;32;7;1
+627744;Puthuruthy;32;594;5652;64600;Puthuruthy;32;7;1
+627745;Thekkumkara;32;594;5652;65000;Thekkumkara;32;7;1
+627746;Karumathara;32;594;5652;65100;Karumathara;32;7;1
+627747;Viruppakka;32;594;5652;65200;Viruppakka;32;7;1
+627748;Manalithara;32;594;5652;65300;Manalithara;32;7;1
+627749;Kurumala;32;594;5652;65400;Kurumala;32;7;1
+627750;Thonnurkara;32;594;5652;65500;Thonnurkara;32;7;1
+627751;Pangarappilly;32;594;5652;65700;Pangarappilly;32;7;1
+627752;Pulakode;32;594;5652;65800;Pulakode;32;7;1
+627753;Pazhayannur;32;594;5652;65900;Pazhayannur;32;7;1
+627754;Vennur;32;594;5652;66000;Vennur;32;7;1
+627755;Elanad;32;594;5652;66100;Elanad;32;7;1
+627756;Kaniyarkode (CT);32;594;5652;60700;Kaniyarkode;32;7;1
+627757;Cheruthuruthi (CT);32;594;5652;60400;Cheruthuruthi;32;7;1
+627758;Nedumpura (CT);32;594;5652;60300;Nedumpura ;32;7;1
+627759;Desamangalam (CT);32;594;5652;59900;Desamangalam;32;7;1
+627760;Kadavallur (CT);32;594;5652;59200;Kadavallur;32;7;1
+627761;Kattakampal (CT);32;594;5652;62800;Kattakampal;32;7;1
+627762;Pazhanji (CT);32;594;5652;62700;Pazhanji;32;7;1
+627763;Karikkad (CT);32;594;5652;59300;Karikkad;32;7;1
+627764;Nelluwaya (CT);32;594;5652;62100;Nelluwaya;32;7;1
+627765;Kottappuram (CT);32;594;5652;62000;Kottappuram;32;7;1
+627766;Chittanda (CT);32;594;5652;61900;Chittanda;32;7;1
+627767;Kumaranellur (CT);32;594;5652;64800;Kumaranellur;32;7;1
+627768;Chelakkara (CT);32;594;5652;65600;Chelakkara;32;7;1
+627769;Enkakkad (CT);32;594;5652;64900;Enkakkad;32;7;1
+627770;Wadakkanchery (CT);32;594;5652;64700;Wadakkanchery;32;7;1
+627771;Kariyannur (CT);32;594;5652;62200;Kariyannur;32;7;1
+627772;Eyyal (CT);32;594;5652;63300;Eyyal;32;7;1
+627773;Chiramanangad (CT);32;594;5652;62400;Chiramanangad;32;7;1
+627774;Akathiyoor (CT);32;594;5652;40701000;Akathiyoor (CT);32;7;1
+627775;Porkulam (CT);32;594;5652;62600;Porkulam;32;7;1
+627776;Choondal (CT);32;594;5652;63400;Choondal;32;7;1
+627777;Chiranellur (CT);32;594;5652;63700;Chiranellur;32;7;1
+627778;Velur (CT);32;594;5652;64000;Velur;32;7;1
+627779;Mundathikode (CT);32;594;5652;64200;Mundathikode;32;7;1
+627780;Peringandoor (CT);32;594;5652;64300;Peringandoor;32;7;1
+627781;Minalur (CT);32;594;5652;64400;Minalur;32;7;1
+627782;Eranellur (CT);32;594;5652;63600;Eranellur;32;7;1
+627783;Alur (CT);32;594;5652;63500;Alur;32;7;1
+627784;Kandanassery (CT);32;594;5652;63000;Kandanassery ;32;7;1
+627785;Kadappuram ;32;594;5653;66800;Kadappuram ;32;7;2
+627786;Annakara;32;594;5653;67100;Annakara;32;7;2
+627787;Irimbranallur;32;594;5653;67400;Irimbranallur;32;7;2
+627788;Kundazhiyur;32;594;5653;67500;Kundazhiyur;32;7;2
+627789;Engandiyur;32;594;5653;67600;Engandiyur;32;7;2
+627790;Nattika;32;594;5653;67900;Nattika;32;7;2
+627791;Valappad;32;594;5653;68000;Valappad;32;7;2
+627792;Kadikkad (CT);32;594;5653;66200;Kadikkad;32;7;2
+627793;Punnayurkulam (CT);32;594;5653;66300;Punnayurkulam;32;7;2
+627794;Vadakkekad (CT);32;594;5653;66400;Vadakkekad;32;7;2
+627795;Punnayur (CT);32;594;5653;66500;Punnayur;32;7;2
+627796;Edakkazhiyur (CT);32;594;5653;66600;Edakkazhiyur;32;7;2
+627797;Vylathur (CT);32;594;5653;66700;Vylathur;32;7;2
+627798;Pookode (CT);32;594;5653;40706000;Pookode (OG);32;7;2
+627799;Iringaprom (CT);32;594;5653;40705000;Iringaprom (CT);32;7;2
+627800;Perakam (CT);32;594;5653;40704000;Perakam (CT);32;7;2
+627801;Orumanayur (CT);32;594;5653;66900;Orumanayur;32;7;2
+627802;Paluvai (CT);32;594;5653;40708000;Paluvai (CT);32;7;2
+627803;Thaikkad (CT);32;594;5653;40707000;Thaikkad (CT);32;7;2
+627804;Brahmakulam (CT);32;594;5653;40710000;Brahmakulam (CT);32;7;2
+627805;Elavally (CT);32;594;5653;67000;Elavally;32;7;2
+627806;Pavaratty (CT);32;594;5653;40709000;Pavaratty (CT);32;7;2
+627807;Venmanad (CT);32;594;5653;40711000;Venmanad (CT);32;7;2
+627808;Mullassery (CT);32;594;5653;67200;Mullassery;32;7;2
+627809;Venkitangu (CT);32;594;5653;67300;Venkitangu;32;7;2
+627810;Vadanappally (CT);32;594;5653;67700;Vadanappally;32;7;2
+627811;Talikkulam (CT);32;594;5653;67800;Talikkulam;32;7;2
+627812;Velappaya;32;594;5654;68500;Velappaya;32;7;3
+627813;Madakkathara;32;594;5654;68800;Madakkathara;32;7;3
+627814;Chalakkal;32;594;5654;69300;Chalakkal;32;7;3
+627815;Pananchery;32;594;5654;69900;Pananchery;32;7;3
+627816;Peechi;32;594;5654;70000;Peechi;32;7;3
+627817;Mannamangalam;32;594;5654;70100;Mannamangalam;32;7;3
+627818;Mulayam;32;594;5654;70400;Mulayam;32;7;3
+627819;Pullu;32;594;5654;71400;Pullu;32;7;3
+627820;Pallippuram;32;594;5654;71500;Pallippuram;32;7;3
+627821;Alappad;32;594;5654;72000;Alappad;32;7;3
+627822;Chazhoor;32;594;5654;72100;Chazhoor;32;7;3
+627823;Inchamudi;32;594;5654;72700;Inchamudi;32;7;3
+627824;Arattupuzha;32;594;5654;72900;Arattupuzha;32;7;3
+627825;Killannur (CT);32;594;5654;68600;Killannur;32;7;3
+627826;Thangalur (CT);32;594;5654;68300;Thangalur;32;7;3
+627827;Avanur (CT);32;594;5654;68400;Avanur;32;7;3
+627828;Anjur (CT);32;594;5654;68200;Anjur;32;7;3
+627829;Kaiparamba (CT);32;594;5654;68100;Kaiparamba;32;7;3
+627830;Tholur (CT);32;594;5654;69200;Tholur;32;7;3
+627831;Edakkalathur (CT);32;594;5654;69100;Edakkalathur;32;7;3
+627832;Peramangalam (CT);32;594;5654;69000;Peramangalam;32;7;3
+627833;Choolissery (CT);32;594;5654;68900;Choolissery;32;7;3
+627834;Pottore (CT);32;594;5654;40713000;Pottore (CT);32;7;3
+627835;Kolazhy (CT);32;594;5654;40712000;Kolazhy (CT);32;7;3
+627836;Kurichikkara (CT);32;594;5654;68700;Kurichikkara;32;7;3
+627837;Vellanikkara (CT);32;594;5654;69800;Vellanikkara;32;7;3
+627838;Kuttoor (CT);32;594;5654;69700;Kuttoor;32;7;3
+627839;Puzhakkal (CT);32;594;5654;69600;Puzhakkal;32;7;3
+627840;Puranattukara (CT);32;594;5654;40714000;Puranattukara (CT);32;7;3
+627841;Chittilappilly (CT);32;594;5654;69500;Chittilappilly;32;7;3
+627842;Adat (CT);32;594;5654;69400;Adat;32;7;3
+627843;Kozhukkully (CT);32;594;5654;70500;Kozhukkully;32;7;3
+627844;Kainoor (CT);32;594;5654;70300;Kainoor;32;7;3
+627845;Nadathara (CT);32;594;5654;40715000;Nadathara (CT);32;7;3
+627846;Parakkad (CT);32;594;5654;70600;Parakkad;32;7;3
+627847;Karamuck (CT);32;594;5654;71100;Karamuck;32;7;3
+627848;Manalur (CT);32;594;5654;71000;Manalur;32;7;3
+627849;Eravu (CT);32;594;5654;70900;Eravu;32;7;3
+627850;Veluthur (CT);32;594;5654;70800;Veluthur;32;7;3
+627851;Manakkody (CT);32;594;5654;70700;Manakkody;32;7;3
+627852;Marathakkara (CT);32;594;5654;40717000;Marathakkara (CT);32;7;3
+627853;Puthur (CT);32;594;5654;70200;Puthur;32;7;3
+627854;Avinissery (CT);32;594;5654;40718000;Avinissery (CT);32;7;3
+627855;Palissery (CT);32;594;5654;40719000;Palissery (CT);32;7;3
+627856;Venginissery (CT);32;594;5654;71700;Venginissery;32;7;3
+627857;Kodannur (CT);32;594;5654;71600;Kodannur;32;7;3
+627858;Anthicad (CT);32;594;5654;71300;Anthicad;32;7;3
+627859;Padiyam (CT);32;594;5654;71200;Padiyam;32;7;3
+627860;Vadakkummuri (CT);32;594;5654;72300;Vadakkummuri;32;7;3
+627861;Kizhakkummuri (CT);32;594;5654;72200;Kizhakkummuri;32;7;3
+627862;Cherpu (CT);32;594;5654;71900;Cherpu;32;7;3
+627863;Paralam (CT);32;594;5654;71800;Paralam;32;7;3
+627864;Chevvoor (CT);32;594;5654;40720000;Chevvoor (CT);32;7;3
+627865;Vallachira (CT);32;594;5654;40721000;Vallachira (CT);32;7;3
+627866;Oorakam (CT);32;594;5654;72800;Oorakam;32;7;3
+627867;Kurumpilavu (CT);32;594;5654;72600;Kurumpilavu;32;7;3
+627868;Kizhuppillikkara (CT);32;594;5654;72500;Kizhuppillikkara;32;7;3
+627869;Thanniyam (CT);32;594;5654;72400;Thanniyam;32;7;3
+627870;Koolimuttam;32;594;5655;73500;Koolimuttam;32;7;4
+627871;Padinjare Vemballur;32;594;5655;73600;Padinjare Vemballur;32;7;4
+627872;Azhikode;32;594;5655;74000;Azhikode;32;7;4
+627873;Edathiruthy (CT);32;594;5655;73000;Edathiruthy;32;7;4
+627874;Chendrappini (CT);32;594;5655;73100;Chendrappini;32;7;4
+627875;Kaipamangalam (CT);32;594;5655;73200;Kaipamangalam;32;7;4
+627876;Perinjanam (CT);32;594;5655;73300;Perinjanam;32;7;4
+627877;Pappinivattom (CT);32;594;5655;73400;Pappinivattom;32;7;4
+627878;Panangad (CT);32;594;5655;73700;Panangad;32;7;4
+627879;Edavilangu (CT);32;594;5655;73900;Edavilangu;32;7;4
+627880;Ala (CT);32;594;5655;73800;Ala;32;7;4
+627881;Pallippuram (CT);32;594;5655;74100;Pallippuram;32;7;4
+627882;Methala (CT);32;594;5655;40723000;Methala (CT);32;7;4
+627883;Poyya (CT);32;594;5655;74200;Poyya;32;7;4
+627884;Madathumpady (CT);32;594;5655;74300;Madathumpady;32;7;4
+627885;Eriyad (OG);32;594;5655;40722000;Eriyad  (OG);32;7;4
+627886;Karalam (Part);32;594;5656;74500;Karalam (Part);32;7;5
+627887;Thottippal;32;594;5656;74800;Thottippal;32;7;5
+627888;Kallur;32;594;5656;75100;Kallur;32;7;5
+627889;Varandarappilly;32;594;5656;75300;Varandarappilly;32;7;5
+627890;Mupliyam;32;594;5656;75400;Mupliyam;32;7;5
+627891;Nandipulam;32;594;5656;75500;Nandipulam;32;7;5
+627892;Chengallur;32;594;5656;75600;Chengallur;32;7;5
+627893;Nellayi;32;594;5656;75700;Nellayi;32;7;5
+627894;Anandapuram;32;594;5656;75800;Anandapuram;32;7;5
+627895;Muriyad;32;594;5656;75900;Muriyad;32;7;5
+627896;Irinjalakuda (Part);32;594;5656;76100;Irinjalakuda (Part);32;7;5
+627897;Kaduppassery;32;594;5656;76700;Kaduppassery;32;7;5
+627898;Kodakara;32;594;5656;76900;Kodakara;32;7;5
+627899;Mattathur;32;594;5656;77000;Mattathur;32;7;5
+627900;Vellikulangara;32;594;5656;77100;Vellikulangara;32;7;5
+627901;Kuttichira;32;594;5656;77200;Kuttichira;32;7;5
+627902;Kodassery ;32;594;5656;77300;Kodassery ;32;7;5
+627903;Pariyaram;32;594;5656;77400;Pariyaram;32;7;5
+627904;Elanjipra;32;594;5656;77500;Elanjipra;32;7;5
+627905;Alur;32;594;5656;77600;Alur;32;7;5
+627906;Thazhekkad;32;594;5656;77700;Thazhekkad;32;7;5
+627907;Kottanellur;32;594;5656;77800;Kottanellur;32;7;5
+627908;Vallivattom;32;594;5656;78000;Vallivattom;32;7;5
+627909;Karumathra;32;594;5656;78200;Karumathra;32;7;5
+627910;Puthenchira;32;594;5656;78300;Puthenchira;32;7;5
+627911;Vadakkumbhagom;32;594;5656;78500;Vadakkumbhagom;32;7;5
+627912;Annallur;32;594;5656;78600;Annallur;32;7;5
+627913;Melur;32;594;5656;78900;Melur;32;7;5
+627914;Kizhakkummuri;32;594;5656;79000;Kizhakkummuri;32;7;5
+627915;Alathur;32;594;5656;79200;Alathur;32;7;5
+627916;Kuruvilassery;32;594;5656;79300;Kuruvilassery;32;7;5
+627917;Kakkulissery;32;594;5656;79400;Kakkulissery;32;7;5
+627918;Thirumukkulam;32;594;5656;79500;Thirumukkulam;32;7;5
+627919;Trikkur (CT);32;594;5656;75000;Trikkur;32;7;5
+627920;Nenmenikkara (CT);32;594;5656;40724000;Nenmenikkara (CT);32;7;5
+627921;Amballur (CT);32;594;5656;75200;Amballur;32;7;5
+627922;Puthukkad (CT);32;594;5656;40725000;Puthukkad (CT);32;7;5
+627923;Parappukkara (CT);32;594;5656;74900;Parappukkara;32;7;5
+627924;Kattur (CT);32;594;5656;74400;Kattur;32;7;5
+627925;Porathissery (CT);32;594;5656;74600;Porathissery (Part);32;7;5
+627926;Madayikonam (CT);32;594;5656;74700;Madayikonam;32;7;5
+627927;Kallettumkara (CT);32;594;5656;76800;Kallettumkara;32;7;5
+627928;Pullur (CT);32;594;5656;76000;Pullur (Part);32;7;5
+627929;Manavalassery (CT);32;594;5656;76200;Manavalassery (Part);32;7;5
+627930;Edathirinji (CT);32;594;5656;76300;Edathirinji;32;7;5
+627931;Vellookkara (CT);32;594;5656;76600;Vellookkara;32;7;5
+627932;Vadakkumkara (CT);32;594;5656;77900;Vadakkumkara;32;7;5
+627933;Poomangalam (CT);32;594;5656;76500;Poomangalam;32;7;5
+627934;Padiyur (CT);32;594;5656;76400;Padiyur;32;7;5
+627935;Thekkumkara (CT);32;594;5656;78100;Thekkumkara;32;7;5
+627936;Muringur Vadakkummuri (CT);32;594;5656;78800;Muringur Vadakkummuri;32;7;5
+627937;Koratty (CT);32;594;5656;40728000;Koratty (CT);32;7;5
+627938;Kallur Vadakkummuri (CT);32;594;5656;78700;Kallur Vadakkummuri;32;7;5
+627939;Vadama (CT);32;594;5656;78400;Vadama;32;7;5
+627940;Kallur Thekkummuri (CT);32;594;5656;79100;Kallur Thekkummuri;32;7;5
+627941;Kodanad;32;595;5657;79800;Kodanad;32;8;1
+627942;Kombanad;32;595;5657;79900;Kombanad;32;8;1
+627943;Vengoor;32;595;5657;80000;Vengoor;32;8;1
+627944;Vengoor West;32;595;5657;80100;Vengoor West;32;8;1
+627945;Asamannoor;32;595;5657;80200;Asamannoor;32;8;1
+627946;Rayamangalam;32;595;5657;80300;Rayamangalam;32;8;1
+627947;Arakapady;32;595;5657;80800;Arakapady;32;8;1
+627948;Irapuram ;32;595;5657;80900;Irapuram ;32;8;1
+627949;Mazhuvannoor;32;595;5657;81000;Mazhuvannoor;32;8;1
+627950;Pattimattom ;32;595;5657;81100;Pattimattom ;32;8;1
+627951;Kizhakkambalam;32;595;5657;81200;Kizhakkambalam;32;8;1
+627952;Vadavukode;32;595;5657;81500;Vadavukode;32;8;1
+627953;Aikaranad North;32;595;5657;81600;Aikaranad North;32;8;1
+627954;Aikaranad South;32;595;5657;81700;Aikaranad South;32;8;1
+627955;Thiruvaniyoor;32;595;5657;81800;Thiruvaniyoor;32;8;1
+627956;Koovappady (CT);32;595;5657;79700;Koovappady;32;8;1
+627957;Chelamattom (CT);32;595;5657;79600;Chelamattom (Part);32;8;1
+627958;Marampilly(CT);32;595;5657;80600;Marampilly;32;8;1
+627959;Vazhakulam (CT);32;595;5657;80700;Vazhakulam;32;8;1
+627960;Vengola (CT);32;595;5657;80500;Vengola;32;8;1
+627961;Perumbavoor (CT);32;595;5657;80400;Perumbavoor (Part);32;8;1
+627962;Kunnathunad (CT);32;595;5657;81300;Kunnathunad;32;8;1
+627963;Puthencruz (CT);32;595;5657;81400;Puthencruz;32;8;1
+627964;Parakkadavu;32;595;5658;81900;Parakkadavu;32;8;2
+627965;Karukutty;32;595;5658;82000;Karukutty;32;8;2
+627966;Mookkannoor;32;595;5658;82100;Mookkannoor;32;8;2
+627967;Ayyampuzha;32;595;5658;82200;Ayyampuzha;32;8;2
+627968;Manjapra;32;595;5658;82300;Manjapra;32;8;2
+627969;Malayattoor;32;595;5658;82400;Malayattoor;32;8;2
+627970;Thuravoor;32;595;5658;82700;Thuravoor;32;8;2
+627971;Kalady (CT);32;595;5658;82500;Kalady;32;8;2
+627972;Mattoor (CT);32;595;5658;82600;Mattoor;32;8;2
+627973;Vadakkumbhagom (CT);32;595;5658;82900;Vadakkumbhagom;32;8;2
+627974;Chowwara (CT);32;595;5658;40804000;Chowwara (CT);32;8;2
+627975;Nedumbassery (CT);32;595;5658;82800;Nedumbassery;32;8;2
+627976;Chengamanad (CT);32;595;5658;40803000;Chengamanad (CT);32;8;2
+627977;Kizhakkumbhagom (CT);32;595;5658;83000;Kizhakkumbhagom;32;8;2
+627978;Thekkumbhagom (CT);32;595;5658;83100;Thekkumbhagom;32;8;2
+627979;Edathala (CT);32;595;5658;40807000;Edathala (CT);32;8;2
+627980;Choornikkara (CT);32;595;5658;40806000;Choornikkara (CT);32;8;2
+627981;Kunnukara;32;595;5659;83500;Kunnukara;32;8;3
+627982;Ezhikkara;32;595;5659;83700;Ezhikkara;32;8;3
+627983;Puthenvelikkara (CT);32;595;5659;83400;Puthenvelikkara;32;8;3
+627984;Chendamangalam (CT);32;595;5659;40808000;Chendamangalam (CT);32;8;3
+627985;Moothakunnam (CT);32;595;5659;83300;Moothakunnam;32;8;3
+627986;Vadakkekara (CT);32;595;5659;83200;Vadakkekara (Part);32;8;3
+627987;Karumalloor (CT);32;595;5659;83600;Karumalloor ;32;8;3
+627988;Kadungalloor (CT);32;595;5659;40813000;Kadungalloor (CT);32;8;3
+627989;Alangad (CT);32;595;5659;40819000;Alangad (OG);32;8;3
+627990;Kottuvally (CT);32;595;5659;40810000;Kottuvally (CT);32;8;3
+627991;Varappuzha (CT);32;595;5659;40811000;Varappuzha (CT);32;8;3
+627992;Eloor (CT);32;595;5659;40812000;Eloor (CT);32;8;3
+645601;Kedamangalam (OG) (Part);32;595;5659;;;32;8;3
+627993;Kuzhuppilly;32;595;5660;83800;Kuzhuppilly;32;8;4
+627994;Pallippuram;32;595;5660;83900;Pallippuram;32;8;4
+627995;Edavanakkad;32;595;5660;84000;Edavanakkad;32;8;4
+627996;Nayarambalam;32;595;5660;84100;Nayarambalam;32;8;4
+627997;Chellanam;32;595;5660;84600;Chellanam;32;8;4
+627998;Njarackal (CT);32;595;5660;84200;Njarackal;32;8;4
+627999;Elamkunnapuzha (CT);32;595;5660;84300;Elamkunnapuzha;32;8;4
+628000;Puthuvype (CT);32;595;5660;84400;Puthuvype;32;8;4
+628001;Kumbalangy (CT);32;595;5660;84500;Kumbalangy;32;8;4
+645602;Cheriyakadavu (OG) (Part);32;595;5660;;;32;8;4
+628002;Thrikkakara North (Part);32;595;5661;84700;Thrikkakara North (Part);32;8;5
+628003;Edakkattuvayal;32;595;5661;85200;Edakkattuvayal;32;8;5
+628004;Kaippattur;32;595;5661;85300;Kaippattur;32;8;5
+628005;Kulayettikara;32;595;5661;85400;Kulayettikara;32;8;5
+628006;Keecherry;32;595;5661;85600;Keecherry;32;8;5
+628007;Kakkanad (CT);32;595;5661;40819000;Kakkanad (OG) ;32;8;5
+628008;Vazhakkala (CT);32;595;5661;40818000;Vazhakkala (CT);32;8;5
+628009;Cheranallur (CT);32;595;5661;40816000;Cheranallur (CT);32;8;5
+628010;Kadamakkudy (CT);32;595;5661;40815000;Kadamakkudy  (CT);32;8;5
+628011;Mulavukad (CT);32;595;5661;40814000;Mulavukad (CT);32;8;5
+628012;Thiruvankulam (CT);32;595;5661;40822000;Thiruvankulam (CT);32;8;5
+628013;Kanayannur (CT);32;595;5661;85000;Kanayannur;32;8;5
+628014;Kureekkad (CT);32;595;5661;40823000;Kureekkad (CT);32;8;5
+628015;Maradu (CT);32;595;5661;40820000;Maradu (CT);32;8;5
+628016;Kumbalam (CT);32;595;5661;84800;Kumbalam;32;8;5
+628017;Manakunnam (CT);32;595;5661;84900;Manakunnam;32;8;5
+628018;Mulamthuruthy (CT);32;595;5661;85100;Mulamthuruthy;32;8;5
+628019;Amballur (CT);32;595;5661;85500;Amballur;32;8;5
+628020;Valakam;32;595;5662;85700;Valakam;32;8;6
+628021;Mulavoor;32;595;5662;85900;Mulavoor;32;8;6
+628022;Enanalloor ;32;595;5662;86000;Enanalloor ;32;8;6
+628023;Kalloorkkad ;32;595;5662;86100;Kalloorkkad ;32;8;6
+628024;Manjalloor;32;595;5662;86200;Manjalloor;32;8;6
+628025;Muvattupuzha (Part);32;595;5662;86300;Muvattupuzha (Part);32;8;6
+628026;Arakuzha;32;595;5662;86400;Arakuzha;32;8;6
+628027;Marady (Part);32;595;5662;86500;Marady (Part);32;8;6
+628028;Memury;32;595;5662;86600;Memury;32;8;6
+628029;Ramamangalam;32;595;5662;86700;Ramamangalam;32;8;6
+628030;Maneed;32;595;5662;86800;Maneed;32;8;6
+628031;Piravom;32;595;5662;86900;Piravom;32;8;6
+628032;Onakkoor;32;595;5662;87000;Onakkoor;32;8;6
+628033;Thirumarady;32;595;5662;87100;Thirumarady;32;8;6
+628034;Palakkuzha;32;595;5662;87200;Palakkuzha;32;8;6
+628035;Koothattukulam;32;595;5662;87300;Koothattukulam;32;8;6
+628036;Elanji;32;595;5662;87400;Elanji;32;8;6
+628037;Velloorkunnam (CT);32;595;5662;85800;Velloorkunnam (Part);32;8;6
+628038;Thrikkariyoor (Part);32;595;5663;87600;Thrikkariyoor (Part);32;8;7
+628039;Kottappady;32;595;5663;87700;Kottappady;32;8;7
+628040;Pindimana;32;595;5663;87800;Pindimana;32;8;7
+628041;Kuttampuzha;32;595;5663;87900;Kuttampuzha;32;8;7
+628042;Keerampara;32;595;5663;88000;Keerampara;32;8;7
+628043;Kuttamangalam;32;595;5663;88100;Kuttamangalam;32;8;7
+628044;Neriamangalam ;32;595;5663;88200;Neriamangalam ;32;8;7
+628045;Kedavoor;32;595;5663;88300;Kedavoor;32;8;7
+628046;Pothanikkad;32;595;5663;88400;Pothanikkad;32;8;7
+628047;Varappetty;32;595;5663;88500;Varappetty;32;8;7
+628048;Eramalloor (CT);32;595;5663;87500;Eramalloor (Part);32;8;7
+628049;Marayoor;32;596;5664;88600;Marayoor;32;9;1
+628050;Keezhanthoor;32;596;5664;88700;Keezhanthoor;32;9;1
+628051;Kanthalloor;32;596;5664;88800;Kanthalloor;32;9;1
+628052;Kottakamboor;32;596;5664;88900;Kottakamboor;32;9;1
+628053;Vattavada;32;596;5664;89000;Vattavada;32;9;1
+628054;Kannan Devan Hills;32;596;5664;89100;Kannan Devan Hills;32;9;1
+628055;Mankulam;32;596;5664;89200;Mankulam;32;9;1
+628056;Mannamkandam;32;596;5664;89300;Mannamkandam;32;9;1
+628057;Anaviratty;32;596;5664;89400;Anaviratty;32;9;1
+628058;Pallivasal;32;596;5664;89500;Pallivasal;32;9;1
+628059;Kunjithanny;32;596;5664;89600;Kunjithanny;32;9;1
+628060;Vellathuval;32;596;5664;89700;Vellathuval;32;9;1
+628061;Konnathady;32;596;5665;89800;Konnathady;32;9;2
+628062;Rajakkad ;32;596;5665;89900;Rajakkad ;32;9;2
+628063;Baisonvally;32;596;5665;90000;Baisonvally;32;9;2
+628064;Chinnakanal;32;596;5665;90100;Chinnakanal;32;9;2
+628065;Poopara ;32;596;5665;90200;Poopara ;32;9;2
+628066;Rajakumari;32;596;5665;90300;Rajakumari;32;9;2
+628067;Kanthippara;32;596;5665;90400;Kanthippara;32;9;2
+628068;Santhanpara;32;596;5665;90500;Santhanpara;32;9;2
+628069;Chathurangapara;32;596;5665;90600;Chathurangapara;32;9;2
+628070;Udumbanchola;32;596;5665;90700;Udumbanchola;32;9;2
+628071;Vathikudy;32;596;5665;90800;Vathikudy;32;9;2
+628072;Upputhode;32;596;5665;90900;Upputhode;32;9;2
+628073;Thankamony;32;596;5665;91000;Thankamony (Part);32;9;2
+628074;Kalkoonthal;32;596;5665;91100;Kalkoonthal;32;9;2
+628075;Parathodu;32;596;5665;91200;Parathodu;32;9;2
+628076;Pampadumpara;32;596;5665;91300;Pampadumpara;32;9;2
+628077;Karunapuram;32;596;5665;91400;Karunapuram;32;9;2
+628078;Vandanmedu;32;596;5665;91500;Vandanmedu;32;9;2
+628079;Kattappana;32;596;5665;91600;Kattappana;32;9;2
+628080;Ayyappancoil;32;596;5665;91700;Ayyappancoil;32;9;2
+628081;Anavilasam ;32;596;5665;91800;Anavilasam ;32;9;2
+628082;Chakkupallam;32;596;5665;91900;Chakkupallam;32;9;2
+628083;Anakkara;32;596;5665;92000;Anakkara;32;9;2
+628084;Kumaramangalam (Part);32;596;5666;92100;Kumaramangalam (Part);32;9;3
+628085;Kodikulam ;32;596;5666;92200;Kodikulam ;32;9;3
+628086;Vannapuram;32;596;5666;92300;Vannapuram;32;9;3
+628087;Kanjikuzhi;32;596;5666;92400;Kanjikuzhi;32;9;3
+628088;Udumbannoor;32;596;5666;92500;Udumbannoor;32;9;3
+628089;Neyyasseri;32;596;5666;92600;Neyyasseri;32;9;3
+628090;Karimannoor;32;596;5666;92700;Karimannoor;32;9;3
+628091;Karikkode (Part);32;596;5666;92800;Karikkode (Part);32;9;3
+628092;Thodupuzha (Part);32;596;5666;92900;Thodupuzha (Part);32;9;3
+628093;Manakkad (Part);32;596;5666;93000;Manakkad (Part);32;9;3
+628094;Purapuzha;32;596;5666;93100;Purapuzha;32;9;3
+628095;Karimkunnam (Part);32;596;5666;93200;Karimkunnam (Part);32;9;3
+628096;Muttom ;32;596;5666;93300;Muttom ;32;9;3
+628097;Alacode;32;596;5666;93400;Alacode;32;9;3
+628098;Velliyamattom;32;596;5666;93500;Velliyamattom;32;9;3
+628099;Idukki;32;596;5666;93600;Idukki (Part);32;9;3
+628100;Arakkulam ;32;596;5666;93700;Arakkulam ;32;9;3
+628101;Kudayathoor ;32;596;5666;93800;Kudayathoor ;32;9;3
+628102;Elappally;32;596;5666;93900;Elappally;32;9;3
+628103;Vagamon ;32;596;5667;94000;Vagamon ;32;9;4
+628104;Upputhara ;32;596;5667;94100;Upputhara ;32;9;4
+628105;Elappara ;32;596;5667;94200;Elappara ;32;9;4
+628106;Kokkayar;32;596;5667;94300;Kokkayar;32;9;4
+628107;Peerumade;32;596;5667;94400;Peerumade;32;9;4
+628108;Manjumala;32;596;5667;94500;Manjumala;32;9;4
+628109;Periyar;32;596;5667;94600;Periyar;32;9;4
+628110;Kumily;32;596;5667;94700;Kumily;32;9;4
+628111;Mlappara;32;596;5667;94800;Mlappara;32;9;4
+628112;Peruvanthanam;32;596;5667;94900;Peruvanthanam;32;9;4
+628113;Veliyannoor;32;597;5668;95000;Veliyannoor;32;10;1
+628114;Monippally;32;597;5668;95100;Monippally;32;10;1
+628115;Uzhavoor;32;597;5668;95200;Uzhavoor;32;10;1
+628116;Vellilappally ;32;597;5668;95300;Vellilappally ;32;10;1
+628117;Ramapuram ;32;597;5668;95400;Ramapuram ;32;10;1
+628118;Kadanad;32;597;5668;95500;Kadanad;32;10;1
+628119;Melukavu;32;597;5668;95600;Melukavu;32;10;1
+628120;Moonilavu;32;597;5668;95700;Moonilavu;32;10;1
+628121;Poonjar Vadakkekara;32;597;5668;95800;Poonjar Vadakkekara;32;10;1
+628122;Teekoy;32;597;5668;95900;Teekoy;32;10;1
+628123;Thalappalam;32;597;5668;96000;Thalappalam;32;10;1
+628124;Bharananganam ;32;597;5668;96100;Bharananganam ;32;10;1
+628125;Lalam (Part);32;597;5668;96200;Lalam (Part);32;10;1
+628126;Vallichira;32;597;5668;96300;Vallichira;32;10;1
+628127;Kurichithanam;32;597;5668;96400;Kurichithanam;32;10;1
+628128;Kuravilangad;32;597;5668;96500;Kuravilangad;32;10;1
+628129;Kanakkari;32;597;5668;96600;Kanakkari;32;10;1
+628130;Elackad;32;597;5668;96700;Elackad;32;10;1
+628131;Kidangoor;32;597;5668;96800;Kidangoor;32;10;1
+628132;Puliyannoor (Part);32;597;5668;96900;Puliyannoor (Part);32;10;1
+628133;Meenachil (Part);32;597;5668;97000;Meenachil (Part);32;10;1
+628134;Poovarany;32;597;5668;97100;Poovarany;32;10;1
+628135;Kondoor;32;597;5668;97200;Kondoor;32;10;1
+628136;Poonjar Thekkekara;32;597;5668;97300;Poonjar Thekkekara;32;10;1
+628137;Poonjar Nadubhagam;32;597;5668;97400;Poonjar Nadubhagam;32;10;1
+628138;Erattupetta (CT);32;597;5668;41002000;Erattupetta (CT);32;10;1
+628139;Chempu;32;597;5669;97500;Chempu;32;10;2
+628140;Velloor;32;597;5669;97600;Velloor;32;10;2
+628141;Mulakulam;32;597;5669;97700;Mulakulam;32;10;2
+628142;Njeezhoor;32;597;5669;97800;Njeezhoor;32;10;2
+628143;Kaduthuruthy;32;597;5669;97900;Kaduthuruthy;32;10;2
+628144;Vadayar;32;597;5669;98000;Vadayar;32;10;2
+628145;Kulasekharamangalam;32;597;5669;98100;Kulasekharamangalam;32;10;2
+628146;Vadakkemuri (Part);32;597;5669;98200;Vadakkemuri (Part);32;10;2
+628147;Naduvile (Part);32;597;5669;98300;Naduvile (Part);32;10;2
+628148;Vaikom (Part);32;597;5669;98400;Vaikom (Part);32;10;2
+628149;Thalayazham;32;597;5669;98500;Thalayazham;32;10;2
+628150;Vechoor;32;597;5669;98600;Vechoor;32;10;2
+628151;Kallara;32;597;5669;98700;Kallara;32;10;2
+628152;Muttuchira;32;597;5669;98800;Muttuchira;32;10;2
+628153;Manjoor;32;597;5669;98900;Manjoor;32;10;2
+628154;Kothanalloor;32;597;5669;99000;Kothanalloor;32;10;2
+628155;Arpookara;32;597;5670;99100;Arpookara;32;10;3
+628156;Kaipuzha;32;597;5670;99200;Kaipuzha;32;10;3
+628157;Onamthuruth;32;597;5670;99300;Onamthuruth;32;10;3
+628158;Peroor;32;597;5670;99500;Peroor;32;10;3
+628159;Ayarkunnam;32;597;5670;99700;Ayarkunnam;32;10;3
+628160;Akalakunnam;32;597;5670;99800;Akalakunnam;32;10;3
+628161;Chengalam East;32;597;5670;99900;Chengalam East;32;10;3
+628162;Anikkad;32;597;5670;100000;Anikkad;32;10;3
+628163;Kooroppada;32;597;5670;100100;Kooroppada;32;10;3
+628164;Manarcad;32;597;5670;100200;Manarcad;32;10;3
+628165;Muttampalam (Part);32;597;5670;100300;Muttampalam (Part);32;10;3
+628166;Kumarakam;32;597;5670;100500;Kumarakam;32;10;3
+628167;Thiruvarpu;32;597;5670;100700;Thiruvarpu;32;10;3
+628168;Veloor  (Part);32;597;5670;100800;Veloor  (Part);32;10;3
+628169;Meenadam ;32;597;5670;101100;Meenadam ;32;10;3
+628170;Pampady;32;597;5670;101200;Pampady;32;10;3
+628171;Ettumanoor (CT);32;597;5670;99600;Ettumanoor;32;10;3
+628172;Athirampuzha (CT);32;597;5670;99400;Athirampuzha;32;10;3
+628173;Aimanam (CT);32;597;5670;100400;Aimanam;32;10;3
+628174;Perumbaikad (CT);32;597;5670;41004000;Perumbaikad (CT);32;10;3
+628175;Vijayapuram (CT);32;597;5670;41005000;Vijayapuram (OG);32;10;3
+628176;Chengalam South (CT);32;597;5670;100600;Chengalam South;32;10;3
+628177;Nattakam (CT);32;597;5670;41005000;Nattakam  (OG);32;10;3
+628178;Panachikkad (CT);32;597;5670;100900;Panachikkad;32;10;3
+628179;Puthuppally (CT);32;597;5670;101000;Puthuppally ;32;10;3
+628180;Vakathanam;32;597;5671;101300;Vakathanam;32;10;4
+628181;Kurichy;32;597;5671;101400;Kurichy;32;10;4
+628182;Vazhappally Padinjaru (Part);32;597;5671;101600;Vazhappally Padinjaru (Part);32;10;4
+628183;Changanassery (Part);32;597;5671;101700;Changanassery (Part);32;10;4
+628184;Madappally;32;597;5671;102000;Madappally;32;10;4
+628185;Thottackad;32;597;5671;102100;Thottackad;32;10;4
+628186;Karukachal;32;597;5671;102200;Karukachal;32;10;4
+628187;Nedumkunnam ;32;597;5671;102300;Nedumkunnam ;32;10;4
+628188;Vazhoor;32;597;5671;102400;Vazhoor;32;10;4
+628189;Kangazha;32;597;5671;102500;Kangazha;32;10;4
+628190;Vellavoor;32;597;5671;102600;Vellavoor;32;10;4
+628191;Chethipuzha (CT);32;597;5671;101500;Chethipuzha;32;10;4
+628192;Thrikkodithanam (CT);32;597;5671;101900;Thrikkodithanam;32;10;4
+628193;Paippad (CT);32;597;5671;101800;Paippad;32;10;4
+628194;Koottickal;32;597;5672;102700;Koottickal;32;10;5
+628195;Mundakayam;32;597;5672;102800;Mundakayam;32;10;5
+628196;Edakkunnam;32;597;5672;102900;Edakkunnam;32;10;5
+628197;Kanjirappally;32;597;5672;103000;Kanjirappally;32;10;5
+628198;Elikkulam;32;597;5672;103100;Elikkulam;32;10;5
+628199;Elamgulam;32;597;5672;103200;Elamgulam;32;10;5
+628200;Chirakkadavu;32;597;5672;103300;Chirakkadavu;32;10;5
+628201;Cheruvally;32;597;5672;103400;Cheruvally;32;10;5
+628202;Koovappally;32;597;5672;103500;Koovappally;32;10;5
+628203;Erumeli North;32;597;5672;103600;Erumeli North;32;10;5
+628204;Erumeli South ;32;597;5672;103700;Erumeli South ;32;10;5
+628205;Manimala;32;597;5672;103800;Manimala;32;10;5
+628206;Perumbalam;32;598;5673;103900;Perumbalam;32;11;1
+628207;Panavally;32;598;5673;104000;Panavally;32;11;1
+628208;Thuravoor Thekku;32;598;5673;104600;Thuravoor Thekku;32;11;1
+628209;Pattanakkad;32;598;5673;104700;Pattanakkad;32;11;1
+628210;Kadakkarappally;32;598;5673;104800;Kadakkarappally;32;11;1
+628211;Cherthala North (Part);32;598;5673;104900;Cherthala North (Part);32;11;1
+628212;Cherthala South (Part);32;598;5673;105000;Cherthala South (Part);32;11;1
+628213;Mararikkulam North;32;598;5673;105100;Mararikkulam North;32;11;1
+628214;Arookutty (CT);32;598;5673;41102000;Arookutty (CT);32;11;1
+628215;Aroor (CT);32;598;5673;41101000;Aroor (CT);32;11;1
+628216;Ezhupunna (CT);32;598;5673;104100;Ezhupunna;32;11;1
+628217;Kodamthuruth (CT);32;598;5673;104200;Kodamthuruth;32;11;1
+628218;Thaikattussery (CT);32;598;5673;104400;Thaikattussery;32;11;1
+628219;Kuthiathode (CT);32;598;5673;104300;Kuthiathode;32;11;1
+628220;Vayalar (CT);32;598;5673;41103000;Vayalar  (OG);32;11;1
+628221;Pallippuram (CT);32;598;5673;104500;Pallippuram;32;11;1
+628222;Thanneermukkam (CT);32;598;5673;41103000;Thanneermukkam  (OG);32;11;1
+628223;Kokkothamangalam (CT);32;598;5673;41104000;Kokkothamangalam (CT);32;11;1
+628224;Kanjikkuzhi (CT);32;598;5673;41105000;Kanjikkuzhi (CT);32;11;1
+628225;Muhamma (CT);32;598;5673;41106000;Muhamma (CT);32;11;1
+628226;Kalavoor;32;598;5674;105300;Kalavoor;32;11;2
+628227;Aryad South  (Part);32;598;5674;105500;Aryad South  (Part);32;11;2
+628228;Mullakkal (Part) ;32;598;5674;105600;Mullakkal (Part) ;32;11;2
+628229;Ambalappuzha;32;598;5674;105700;Ambalappuzha;32;11;2
+628230;Karumady  ;32;598;5674;105800;Karumady  ;32;11;2
+628231;Purakkad;32;598;5674;105900;Purakkad;32;11;2
+628232;Mannanchery (CT);32;598;5674;105200;Mannanchery;32;11;2
+628233;Pathirappally (CT);32;598;5674;105400;Pathirappally;32;11;2
+628234;Komalapuram (CT);32;598;5674;41107000;Komalapuram (CT);32;11;2
+628235;Punnapra (OG);32;598;5674;41108000;Punnapra  (OG);32;11;2
+645603;Kalarkode (OG) (Part);32;598;5674;;;32;11;2
+628236;Kainakary North;32;598;5675;106000;Kainakary North;32;11;3
+628237;Kainakary South;32;598;5675;106100;Kainakary South;32;11;3
+628238;Pulinkunnu;32;598;5675;106200;Pulinkunnu;32;11;3
+628239;Kunnumma;32;598;5675;106300;Kunnumma;32;11;3
+628240;Kavalam;32;598;5675;106400;Kavalam;32;11;3
+628241;Neelamperoor;32;598;5675;106500;Neelamperoor;32;11;3
+628242;Veliyanad;32;598;5675;106600;Veliyanad;32;11;3
+628243;Ramankary;32;598;5675;106700;Ramankary;32;11;3
+628244;Champakkulam;32;598;5675;106800;Champakkulam;32;11;3
+628245;Nedumudi;32;598;5675;106900;Nedumudi;32;11;3
+628246;Thakazhy;32;598;5675;107000;Thakazhy;32;11;3
+628247;Edathua  ;32;598;5675;107100;Edathua  ;32;11;3
+628248;Muttar;32;598;5675;107200;Muttar;32;11;3
+628249;Thalavady ;32;598;5675;107300;Thalavady ;32;11;3
+628250;Karuvatta;32;598;5676;107400;Karuvatta;32;11;4
+628251;Cheruthana;32;598;5676;107500;Cheruthana;32;11;4
+628252;Veeyapuram;32;598;5676;107600;Veeyapuram;32;11;4
+628253;Pallippad;32;598;5676;107700;Pallippad;32;11;4
+628254;Thrikkunnapuzha;32;598;5676;108000;Thrikkunnapuzha;32;11;4
+628255;Arattupuzha;32;598;5676;108200;Arattupuzha;32;11;4
+628256;Haripad (CT);32;598;5676;107800;Haripad;32;11;4
+628257;Kumarapuram (CT);32;598;5676;107900;Kumarapuram;32;11;4
+628258;Karthikappally (CT);32;598;5676;108100;Karthikappally;32;11;4
+628259;Chingoli (CT);32;598;5676;108300;Chingoli;32;11;4
+628260;Cheppad (CT);32;598;5676;108400;Cheppad;32;11;4
+628261;Pathiyoor (CT);32;598;5676;108500;Pathiyoor (Part);32;11;4
+628262;Keerikkad (CT);32;598;5676;108600;Keerikkad (Part);32;11;4
+628263;Muthukulam (CT);32;598;5676;108700;Muthukulam;32;11;4
+628264;Kandalloor (CT);32;598;5676;108800;Kandalloor;32;11;4
+628265;Puthuppally (CT);32;598;5676;108900;Puthuppally (Part);32;11;4
+628266;Krishnapuram (CT);32;598;5676;109000;Krishnapuram (Part);32;11;4
+628267;Ennakkad;32;598;5677;109300;Ennakkad;32;11;5
+628268;Pandanad (Part);32;598;5677;109400;Pandanad (Part);32;11;5
+628269;Thiruvanvandoor;32;598;5677;109500;Thiruvanvandoor;32;11;5
+628270;Chengannur  (Part);32;598;5677;109600;Chengannur  (Part);32;11;5
+628271;Mulakuzha (Part) ;32;598;5677;109700;Mulakuzha (Part) ;32;11;5
+628272;Ala (Part);32;598;5677;109800;Ala (Part);32;11;5
+628273;Puliyoor(Part);32;598;5677;109900;Puliyoor(Part);32;11;5
+628274;Cheriyanad;32;598;5677;110000;Cheriyanad;32;11;5
+628275;Venmony;32;598;5677;110100;Venmony;32;11;5
+628276;Mannar (CT);32;598;5677;109200;Mannar;32;11;5
+628277;Kurattissery (CT);32;598;5677;109100;Kurattissery;32;11;5
+628278;Thriperumthura;32;598;5678;110200;Thriperumthura;32;11;6
+628279;Vettiyar;32;598;5678;110600;Vettiyar;32;11;6
+628280;Thekkekara (Part);32;598;5678;110700;Thekkekara (Part);32;11;6
+628281;Perungala;32;598;5678;110800;Perungala;32;11;6
+628282;Chunakkara;32;598;5678;111100;Chunakkara;32;11;6
+628283;Noornad;32;598;5678;111200;Noornad;32;11;6
+628284;Palamel;32;598;5678;111300;Palamel;32;11;6
+628285;Thamarakkulam;32;598;5678;111400;Thamarakkulam;32;11;6
+628286;Vallikunnam;32;598;5678;111500;Vallikunnam;32;11;6
+628287;Kannamangalam (CT);32;598;5678;110400;Kannamangalam (Part);32;11;6
+628288;Chennithala (CT);32;598;5678;110300;Chennithala;32;11;6
+628289;Thazhakara (CT);32;598;5678;110500;Thazhakara (Part);32;11;6
+628290;Bharanikkavu (CT);32;598;5678;110900;Bharanikkavu;32;11;6
+628291;Kattanam (CT);32;598;5678;111000;Kattanam;32;11;6
+628292;Niranam;32;599;5679;111600;Niranam;32;12;1
+628293;Kadapra;32;599;5679;111700;Kadapra;32;12;1
+628294;Nedumpuram;32;599;5679;111800;Nedumpuram;32;12;1
+628295;Peringara;32;599;5679;111900;Peringara;32;12;1
+628296;Kavumbhagom (Part);32;599;5679;112000;Kavumbhagom (Part);32;12;1
+628297;Kuttoor;32;599;5679;112100;Kuttoor;32;12;1
+628298;Kaviyoor;32;599;5679;112200;Kaviyoor;32;12;1
+628299;Eraviperoor;32;599;5679;112300;Eraviperoor;32;12;1
+628300;Koipuram;32;599;5679;112400;Koipuram;32;12;1
+628301;Thottapuzhassery;32;599;5679;112500;Thottapuzhassery;32;12;1
+628302;Kunnamthanam;32;599;5680;112600;Kunnamthanam;32;12;2
+628303;Kallooppara;32;599;5680;112700;Kallooppara;32;12;2
+628304;Mallappally;32;599;5680;112800;Mallappally;32;12;2
+628305;Anicad;32;599;5680;112900;Anicad;32;12;2
+628306;Kottangal;32;599;5680;113000;Kottangal;32;12;2
+628307;Perumpetty;32;599;5680;113100;Perumpetty;32;12;2
+628308;Ezhumattoor;32;599;5680;113200;Ezhumattoor;32;12;2
+628309;Thelliyoor;32;599;5680;113300;Thelliyoor;32;12;2
+628310;Puramattam;32;599;5680;113400;Puramattam;32;12;2
+628311;Chethakkal;32;599;5681;113500;Chethakkal;32;12;3
+628312;Kollamula;32;599;5681;113600;Kollamula;32;12;3
+628313;Perunad;32;599;5681;113700;Perunad;32;12;3
+628314;Athikkayam;32;599;5681;113800;Athikkayam;32;12;3
+628315;Pazhavangadi;32;599;5681;113900;Pazhavangadi;32;12;3
+628316;Angadi;32;599;5681;114000;Angadi;32;12;3
+628317;Ayiroor;32;599;5681;114100;Ayiroor;32;12;3
+628318;Cherukole;32;599;5681;114200;Cherukole;32;12;3
+628319;Ranni ;32;599;5681;114300;Ranni ;32;12;3
+628320;Vadasserikkara ;32;599;5681;114400;Vadasserikkara ;32;12;3
+628321;Chittar-Seethathodu;32;599;5681;114500;Chittar-Seethathodu;32;12;3
+628322;Kulanada;32;599;5682;114600;Kulanada;32;12;4
+628323;Mezhuveli;32;599;5682;114700;Mezhuveli;32;12;4
+628324;Kidangannur;32;599;5682;114800;Kidangannur;32;12;4
+628325;Aranmula;32;599;5682;114900;Aranmula;32;12;4
+628326;Mallapuzhassery;32;599;5682;115100;Mallapuzhassery;32;12;4
+628327;Elanthoor;32;599;5682;115200;Elanthoor;32;12;4
+628328;Chenneerkara;32;599;5682;115300;Chenneerkara;32;12;4
+628329;Vallicode;32;599;5682;115400;Vallicode;32;12;4
+628330;Omalloor;32;599;5682;115500;Omalloor;32;12;4
+628331;Pathanamthitta (Part);32;599;5682;115600;Pathanamthitta (Part);32;12;4
+628332;Naranganam;32;599;5682;115700;Naranganam;32;12;4
+628333;Mylapra (Part);32;599;5682;115800;Mylapra (Part);32;12;4
+628334;Malayalapuzha (Part);32;599;5682;115900;Malayalapuzha (Part);32;12;4
+628335;Konnithazham;32;599;5682;116000;Konnithazham;32;12;4
+628336;Pramadom;32;599;5682;116100;Pramadom;32;12;4
+628337;Vallicode-Kottayam;32;599;5682;116200;Vallicode-Kottayam;32;12;4
+628338;Konni;32;599;5682;116300;Konni;32;12;4
+628339;Aruvappulam;32;599;5682;116400;Aruvappulam;32;12;4
+628340;Iravan;32;599;5682;116500;Iravan;32;12;4
+628341;Thannithode ;32;599;5682;116600;Thannithode ;32;12;4
+628342;Kozhenchery (CT);32;599;5682;115000;Kozhenchery;32;12;4
+628343;Pandalam;32;599;5683;116700;Pandalam;32;12;5
+628344;Kurampala;32;599;5683;116800;Kurampala;32;12;5
+628345;Pandalam Thekkekara;32;599;5683;116900;Pandalam Thekkekara;32;12;5
+628346;Kodumon;32;599;5683;117000;Kodumon;32;12;5
+628347;Angadickal;32;599;5683;117100;Angadickal;32;12;5
+628348;Koodal;32;599;5683;117200;Koodal;32;12;5
+628349;Kalanjoor;32;599;5683;117300;Kalanjoor;32;12;5
+628350;Enadimangalam;32;599;5683;117400;Enadimangalam;32;12;5
+628351;Ezhamkulam;32;599;5683;117500;Ezhamkulam;32;12;5
+628352;Erathu;32;599;5683;117600;Erathu;32;12;5
+628353;Peringanadu (Part);32;599;5683;117700;Peringanadu (Part);32;12;5
+628354;Pallickal;32;599;5683;117800;Pallickal;32;12;5
+628355;Kadampanadu;32;599;5683;117900;Kadampanadu;32;12;5
+628356;Enathu;32;599;5683;118000;Enathu;32;12;5
+628357;Alappad;32;600;5684;118100;Alappad;32;13;1
+628358;Clappana;32;600;5684;118200;Clappana;32;13;1
+628359;Thazhava;32;600;5684;118500;Thazhava;32;13;1
+628360;Pavumba;32;600;5684;118600;Pavumba;32;13;1
+628361;Thevalakkara;32;600;5684;119400;Thevalakkara;32;13;1
+628362;Thekkumbhagom;32;600;5684;119600;Thekkumbhagom;32;13;1
+628363;Oachira (CT);32;600;5684;118300;Oachira;32;13;1
+628364;Kulasekharapuram (CT);32;600;5684;118400;Kulasekharapuram;32;13;1
+628365;Adinad (CT);32;600;5684;118800;Adinad;32;13;1
+628366;Thodiyoor (CT);32;600;5684;118700;Thodiyoor;32;13;1
+628367;Kallelibhagom (CT);32;600;5684;119000;Kallelibhagom;32;13;1
+628368;Karunagappally (CT);32;600;5684;118900;Karunagappally;32;13;1
+628369;Ayanivelikulangara (CT);32;600;5684;119200;Ayanivelikulangara;32;13;1
+628370;Vadakkumthala (CT);32;600;5684;119100;Vadakkumthala;32;13;1
+628371;Panmana (CT);32;600;5684;119300;Panmana;32;13;1
+628372;Chavara (CT);32;600;5684;119500;Chavara;32;13;1
+628373;Neendakara (OG);32;600;5684;;;32;13;1
+628375;Sooranad North;32;600;5685;119700;Sooranad North;32;13;2
+628376;Poruvazhy;32;600;5685;119800;Poruvazhy;32;13;2
+628377;Kunnathur;32;600;5685;119900;Kunnathur;32;13;2
+628378;Sasthamkotta;32;600;5685;120000;Sasthamkotta;32;13;2
+628379;Sooranad South;32;600;5685;120100;Sooranad South;32;13;2
+628380;Mynagappally;32;600;5685;120200;Mynagappally;32;13;2
+628381;West Kallada;32;600;5685;120300;West Kallada;32;13;2
+628382;Pattazhy Vadakkekara;32;600;5686;120400;Pattazhy Vadakkekara;32;13;3
+628383;Pattazhy;32;600;5686;120500;Pattazhy;32;13;3
+628384;Thalavoor;32;600;5686;120600;Thalavoor;32;13;3
+628385;Vilakkudy;32;600;5686;120700;Vilakkudy;32;13;3
+628386;Pidavoor;32;600;5686;120800;Pidavoor;32;13;3
+628387;Pathanapuram ;32;600;5686;120900;Pathanapuram ;32;13;3
+628388;Punnala;32;600;5686;121000;Punnala;32;13;3
+628389;Piravanthur ;32;600;5686;121100;Piravanthur ;32;13;3
+628390;Valacode (Part);32;600;5686;121200;Valacode (Part);32;13;3
+628391;Edamon;32;600;5686;121300;Edamon;32;13;3
+628392;Thenmala;32;600;5686;121400;Thenmala;32;13;3
+628393;Arienkavu;32;600;5686;121500;Arienkavu;32;13;3
+628394;Kulathupuzha;32;600;5686;121600;Kulathupuzha;32;13;3
+628395;Thinkalkarikkakom;32;600;5686;121700;Thinkalkarikkakom;32;13;3
+628396;Ayiranalloor;32;600;5686;121800;Ayiranalloor;32;13;3
+628397;Karavaloor (Part);32;600;5686;121900;Karavaloor (Part);32;13;3
+628398;Arackal;32;600;5686;122000;Arackal;32;13;3
+628399;Edamulackal;32;600;5686;122100;Edamulackal;32;13;3
+628400;Anchal;32;600;5686;122200;Anchal;32;13;3
+628401;Eroor;32;600;5686;122300;Eroor;32;13;3
+628402;Alayamon ;32;600;5686;122400;Alayamon ;32;13;3
+628403;Channappetta ;32;600;5686;122500;Channappetta ;32;13;3
+628404;Pavithreswaram;32;600;5687;122600;Pavithreswaram;32;13;4
+628405;Puthur ;32;600;5687;122700;Puthur ;32;13;4
+628406;Kulakkada;32;600;5687;122800;Kulakkada;32;13;4
+628407;Kalayapuram;32;600;5687;122900;Kalayapuram;32;13;4
+628408;Mylom;32;600;5687;123000;Mylom;32;13;4
+628409;Melila ;32;600;5687;123100;Melila ;32;13;4
+628410;Chakkuvarakkal;32;600;5687;123200;Chakkuvarakkal;32;13;4
+628411;Vettikkavala;32;600;5687;123300;Vettikkavala;32;13;4
+628412;Neduvathoor;32;600;5687;123500;Neduvathoor;32;13;4
+628413;Ezhukone;32;600;5687;123600;Ezhukone;32;13;4
+628414;Kareepra;32;600;5687;123700;Kareepra;32;13;4
+628415;Odanavattam;32;600;5687;123800;Odanavattam;32;13;4
+628416;Ummannoor;32;600;5687;123900;Ummannoor;32;13;4
+628417;Valakam;32;600;5687;124000;Valakam;32;13;4
+628418;Elamad;32;600;5687;124100;Elamad;32;13;4
+628419;Veliyam;32;600;5687;124200;Veliyam;32;13;4
+628420;Pooyappally;32;600;5687;124300;Pooyappally;32;13;4
+628421;Velinalloor;32;600;5687;124400;Velinalloor;32;13;4
+628422;Chadayamangalam;32;600;5687;124500;Chadayamangalam;32;13;4
+628423;Kottukkal;32;600;5687;124600;Kottukkal;32;13;4
+628424;Ittiva;32;600;5687;124700;Ittiva;32;13;4
+628425;Kadakkal;32;600;5687;124800;Kadakkal;32;13;4
+628426;Nilamel;32;600;5687;124900;Nilamel;32;13;4
+628427;Kummil;32;600;5687;125000;Kummil;32;13;4
+628428;Mancode;32;600;5687;125100;Mancode;32;13;4
+628429;Chithara;32;600;5687;125200;Chithara;32;13;4
+628430;Kottarakkara (CT);32;600;5687;123400;Kottarakkara;32;13;4
+628431;Mundrothuruth;32;600;5688;125400;Mundrothuruth;32;13;5
+628432;Kizhakkekallada;32;600;5688;125500;Kizhakkekallada;32;13;5
+628433;Mulavana;32;600;5688;125600;Mulavana;32;13;5
+628434;Pallimon;32;600;5688;126300;Pallimon;32;13;5
+628435;Chirakkara;32;600;5688;126900;Chirakkara;32;13;5
+628436;Paravoor (Part);32;600;5688;127000;Paravoor (Part);32;13;5
+628437;Parippally;32;600;5688;127200;Parippally;32;13;5
+628438;Kalluvathukkal;32;600;5688;127300;Kalluvathukkal;32;13;5
+628439;Thrikkaruva (CT);32;600;5688;125300;Thrikkaruva;32;13;5
+628440;Panayam (CT);32;600;5688;125800;Panayam;32;13;5
+628441;Perinad (CT);32;600;5688;125700;Perinad;32;13;5
+628442;Elampalloor (CT);32;600;5688;126000;Elampalloor ;32;13;5
+628443;Nedumpana (CT);32;600;5688;126200;Nedumpana;32;13;5
+628444;Kottamkara (CT);32;600;5688;126100;Kottamkara;32;13;5
+628445;Thrikkadavoor (CT);32;600;5688;125900;Thrikkadavoor;32;13;5
+628446;Thrikkovilvattom (CT);32;600;5688;126400;Thrikkovilvattom;32;13;5
+628447;Adichanalloor (CT);32;600;5688;126700;Adichanalloor;32;13;5
+628448;Thazhuthala (CT);32;600;5688;126500;Thazhuthala ;32;13;5
+628449;Mayyanad (CT);32;600;5688;126600;Mayyanad;32;13;5
+628450;Meenad (CT);32;600;5688;126800;Meenad;32;13;5
+628451;Poothakkulam (CT);32;600;5688;127100;Poothakkulam;32;13;5
+628374;Eravipuram (OG) (Part);32;600;5688;41302000;Eravipuram  (OG);32;13;1
+628452;Edava;32;601;5689;127400;Edava;32;14;1
+628453;Ayiroor;32;601;5689;127500;Ayiroor;32;14;1
+628454;Chemmaruthy;32;601;5689;127600;Chemmaruthy;32;14;1
+628455;Navaikulam;32;601;5689;127700;Navaikulam;32;14;1
+628456;Pallickal;32;601;5689;127800;Pallickal;32;14;1
+628457;Madavoor;32;601;5689;127900;Madavoor;32;14;1
+628458;Kudavoor;32;601;5689;128000;Kudavoor;32;14;1
+628459;Vellalloor;32;601;5689;128100;Vellalloor;32;14;1
+628460;Kilimanoor;32;601;5689;128200;Kilimanoor;32;14;1
+628461;Pazhayakunnummel;32;601;5689;128300;Pazhayakunnummel;32;14;1
+628462;Pulimath;32;601;5689;128400;Pulimath;32;14;1
+628463;Koduvazhannoor;32;601;5689;128500;Koduvazhannoor;32;14;1
+628464;Nagaroor;32;601;5689;128600;Nagaroor;32;14;1
+628465;Karavaram;32;601;5689;128700;Karavaram;32;14;1
+628466;Ottoor;32;601;5689;128800;Ottoor;32;14;1
+628467;Vettoor-Cherunniyoor ;32;601;5689;128900;Vettoor-Cherunniyoor ;32;14;1
+628468;Manamboor;32;601;5689;129100;Manamboor;32;14;1
+628469;Elamba-Mudakkal;32;601;5689;129300;Elamba-Mudakkal;32;14;1
+628470;Attingal-Avanavancherry (Part);32;601;5689;129400;Attingal-Avanavancherry (Part);32;14;1
+628471;Kadakkavoor;32;601;5689;129600;Kadakkavoor;32;14;1
+628472;Sarkara-Chirayinkeezhu;32;601;5689;129700;Sarkara-Chirayinkeezhu;32;14;1
+628473;Alamcode (CT);32;601;5689;129200;Alamcode (Part);32;14;1
+628474;Keezhattingal (CT);32;601;5689;129500;Keezhattingal (Part);32;14;1
+628475;Vakkom (CT);32;601;5689;129000;Vakkom ;32;14;1
+628476;Kizhuvalam-Koonthalloor (CT);32;601;5689;129900;Kizhuvalam-Koonthalloor (Part);32;14;1
+628477;Edakkode (CT);32;601;5689;130000;Edakkode (Part);32;14;1
+628478;Azhoor (CT);32;601;5689;129800;Azhoor;32;14;1
+628479;Nellanad;32;601;5690;130100;Nellanad;32;14;2
+628480;Vamanapuram;32;601;5690;130200;Vamanapuram;32;14;2
+628481;Kallara;32;601;5690;130300;Kallara;32;14;2
+628482;Pangode;32;601;5690;130400;Pangode;32;14;2
+628483;Peringamala;32;601;5690;130500;Peringamala;32;14;2
+628484;Thennoor ;32;601;5690;130600;Thennoor ;32;14;2
+628485;Palode;32;601;5690;130700;Palode;32;14;2
+628486;Kurupuzha;32;601;5690;130800;Kurupuzha;32;14;2
+628487;Panavoor;32;601;5690;130900;Panavoor;32;14;2
+628488;Pullampara;32;601;5690;131000;Pullampara;32;14;2
+628489;Koliyakode;32;601;5690;131100;Koliyakode;32;14;2
+628490;Manikkal;32;601;5690;131200;Manikkal;32;14;2
+628491;Theakada;32;601;5690;131300;Theakada;32;14;2
+628492;Anad;32;601;5690;131400;Anad;32;14;2
+628493;Tholicode;32;601;5690;131500;Tholicode;32;14;2
+628494;Vithura;32;601;5690;131600;Vithura;32;14;2
+628495;Mannoorkara;32;601;5690;131700;Mannoorkara;32;14;2
+628496;Aryanad;32;601;5690;131800;Aryanad;32;14;2
+628497;Uzhamalackal;32;601;5690;131900;Uzhamalackal;32;14;2
+628498;Vembayam;32;601;5690;132000;Vembayam;32;14;2
+628499;Aruvikkara;32;601;5690;132300;Aruvikkara;32;14;2
+628500;Vellanad;32;601;5690;132400;Vellanad;32;14;2
+628501;Perumkulam;32;601;5690;132500;Perumkulam;32;14;2
+628502;Veeranakavu;32;601;5690;132600;Veeranakavu;32;14;2
+628503;Vattappara (CT);32;601;5690;132100;Vattappara(Part);32;14;2
+628504;Karakulam (CT);32;601;5690;132200;Karakulam;32;14;2
+628505;Kadinamkulam;32;601;5691;132700;Kadinamkulam;32;14;3
+628506;Melthonnakkal;32;601;5691;132900;Melthonnakkal;32;14;3
+628507;Keezhthonnakkal;32;601;5691;133000;Keezhthonnakkal;32;14;3
+628508;Andoorkonam;32;601;5691;133100;Andoorkonam;32;14;3
+628509;Menamkulam;32;601;5691;133300;Kazhakkoottam-Menamkulam (Part);32;14;3
+628510;Veiloor (CT);32;601;5691;132800;Veiloor;32;14;3
+628511;Pallippuram (CT);32;601;5691;133200;Pallippuram;32;14;3
+628512;Iroopara (CT);32;601;5691;133400;Iroopara;32;14;3
+628513;Uliyazhathura (CT);32;601;5691;133500;Uliyazhathura;32;14;3
+628514;Sreekaryam (CT);32;601;5691;41404000;Sreekaryam  (OG);32;14;3
+628515;Kudappanakkunnu (CT);32;601;5691;41404000;Kudappanakunnu  (OG);32;14;3
+628516;Vattiyoorkavu (CT);32;601;5691;41404000;Vattiyoorkavu  (OG);32;14;3
+628517;Kalliyoor (CT);32;601;5691;133600;Kalliyoor;32;14;3
+628518;Venganoor (CT);32;601;5691;133700;Venganoor ;32;14;3
+628519;Kazhakkoottam(OG);32;601;5691;41404000;Kazhakkoottam  (OG);32;14;2
+628521;Ottasekharamangalam;32;601;5692;134100;Ottasekharamangalam;32;14;4
+628522;Kallikkad;32;601;5692;134200;Kallikkad;32;14;4
+628523;Vazhichal;32;601;5692;134300;Vazhichal;32;14;4
+628524;Amboori;32;601;5692;134400;Amboori;32;14;4
+628525;Vellarada;32;601;5692;134500;Vellarada;32;14;4
+628526;Keezharoor;32;601;5692;134600;Keezharoor;32;14;4
+628527;Maranalloor;32;601;5692;134700;Maranalloor;32;14;4
+628528;Perumkadavila;32;601;5692;135100;Perumkadavila;32;14;4
+628529;Anavoor;32;601;5692;135200;Anavoor;32;14;4
+628530;Kunnathukal;32;601;5692;135300;Kunnathukal;32;14;4
+628531;Kollayil (Part);32;601;5692;135400;Kollayil (Part);32;14;4
+628532;Karode;32;601;5692;135700;Karode;32;14;4
+628533;Chenkal (Part);32;601;5692;135800;Chenkal (Part);32;14;4
+628534;Kulathoor;32;601;5692;135900;Kulathoor;32;14;4
+628535;Thirupuram;32;601;5692;136000;Thirupuram;32;14;4
+628536;Karumkulam ;32;601;5692;136200;Karumkulam ;32;14;4
+628537;Kottukal (Part);32;601;5692;136300;Kottukal (Part);32;14;4
+628538;Vizhinjam (Part);32;601;5692;136400;Vizhinjam (Part);32;14;4
+628539;Vilappil (CT);32;601;5692;133900;Vilappil;32;14;4
+628540;Kulathummal (CT);32;601;5692;134000;Kulathummal;32;14;4
+628541;Malayinkeezhu (CT);32;601;5692;134800;Malayinkeezhu;32;14;4
+628542;Vilavoorkkal (CT);32;601;5692;133800;Vilavoorkkal;32;14;4
+628543;Pallichal (CT);32;601;5692;134900;Pallichal;32;14;4
+628544;Athiyannur (CT);32;601;5692;135000;Athiyannur (Part);32;14;4
+628545;Kanjiramkulam (CT);32;601;5692;136100;Kanjiramkulam ;32;14;4
+628546;Parasuvaikkal (CT);32;601;5692;135500;Parasuvaikkal;32;14;4
+628547;Parassala (CT);32;601;5692;135600;Parassala;32;14;4
+628538;Kovalam (OG) (Part);32;601;5692;41404000;Kovalam  (OG);32;14;3
