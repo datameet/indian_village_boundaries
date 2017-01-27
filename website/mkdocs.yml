@@ -7,4 +7,12 @@ pages:
     - Reference: reference.md
     - Tools: tools.md
     - Tutorials: tutorials.md
+    - States:
+        - Bihar: br.md
+        - Karnataka: ka.md
+        - Kerala: kl.md
+        - Goa: ga.md
+        - Gujarat: gj.md
 site_dir: './../docs'
+extra_css:
+    - css/extra.css

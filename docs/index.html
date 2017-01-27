@@ -18,6 +18,9 @@
     <link href="./css/cinder.css" rel="stylesheet">
     <link rel="stylesheet" href="./css/highlight.css">
 
+
+    <link href="./css/extra.css" rel="stylesheet">
+
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
             <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -34,6 +37,9 @@
     </script>
 
     
+  <script src='//api.tiles.mapbox.com/mapbox.js/v2.2.2/mapbox.js'></script>
+  <script src='//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js' ></script>
+  <link href='//api.tiles.mapbox.com/mapbox.js/v2.2.2/mapbox.css' rel='stylesheet' />
 </head>
 
 <body class="homepage" >
@@ -93,6 +99,45 @@
                     </li>
                 
                 
+                
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">States <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                        
+                            
+<li >
+    <a href="br/">Bihar</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="ka/">Karnataka</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="kl/">Kerala</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="ga/">Goa</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="gj/">Gujarat</a>
+</li>
+
+                        
+                        </ul>
+                    </li>
+                
+                
                 </ul>
             
 
@@ -133,7 +178,7 @@
             <li class="second-level"><a href="#attributes">Attributes</a></li>
             
         
-            <li class="second-level"><a href="#status">Status</a></li>
+            <li class="second-level"><a href="#states">States</a></li>
             
         
             <li class="second-level"><a href="#license">License</a></li>
@@ -170,47 +215,43 @@
 <li>CEN_2001: Code as per 2001 census, its a concatination of State Code, District Code, Sub-District Code, Village Code 2001.</li>
 <li>CEN_2011: Code as per 2011 census, We are yet to populate this. </li>
 </ul>
-<h2 id="status">Status</h2>
-<p><table class="table table-bordered">
+<h2 id="states">States</h2>
+<p>For a view of each state map go to the state page. In state page you can see a very rough version of the state village map and notes related to that state map. You can also download the full version state map from state page. If you just want to download the map. <em>Right click on download link -&gt; Save link as</em>.</p>
+<table class="table table-bordered">
     <thead >
         <td>State</td>
         <td>Status</td>
-        <td>Quick View</td>
         <td>Download</td>
     </thead>
 <tbody>
     <tr>
-        <td>Gujarat - GJ </td>
+        <td><a href="/br" target="_blank">Bihar - BR</a></td>
         <td>Complete</td>
-        <td><a href="http://mapshaper.org/?files=https://rawgit.com/datameet/indian_village_boundaries/master/gj/gj.geojson">Quick View</a></td>
-        <td><a href="https://github.com/datameet/indian_village_boundaries/raw/master/gj/gj.geojson">Download</a></td>
+        <td><a href="https://github.com/datameet/indian_village_boundaries/raw/master/br/br.geojson" target="_blank">Download</a></td>
     </tr>
     <tr>
-        <td>Bihar - BR </td>
+        <td><a href="/ka" target="_blank">Karnataka - KA</a></td>
         <td>Complete</td>
-        <td><a href="http://mapshaper.org/?files=https://rawgit.com/datameet/indian_village_boundaries/master/br/br.geojson">Quick View</a></td>
-        <td><a href="https://github.com/datameet/indian_village_boundaries/raw/master/br/br.geojson">Download</a></td>
+        <td><a href="https://github.com/datameet/indian_village_boundaries/raw/master/ka/ka.geojson" target="_blank">Download</a></td>
     </tr>
     <tr>
-        <td>Karnataka - KA </td>
+        <td><a href="/kl" target="_blank">Kerala - KL</a></td>
         <td>Complete</td>
-        <td><a href="http://mapshaper.org/?files=https://rawgit.com/datameet/indian_village_boundaries/master/ka/ka.geojson">Quick View</a></td>
-        <td><a href="https://github.com/datameet/indian_village_boundaries/raw/master/ka/ka.geojson">Download</a></td>
+        <td><a href="https://github.com/datameet/indian_village_boundaries/raw/master/kl/kl.geojson" target="_blank">Download</a></td>
     </tr>
     <tr>
-        <td>Kerala - KL </td>
+        <td><a href="/ga" target="_blank">Goa - GA</a></td>
         <td>Complete</td>
-        <td><a href="http://mapshaper.org/?files=https://rawgit.com/datameet/indian_village_boundaries/master/kl/kl.geojson">Quick View</a></td>
-        <td><a href="https://github.com/datameet/indian_village_boundaries/raw/master/kl/kl.geojson">Download</a></td>
+        <td><a href="https://github.com/datameet/indian_village_boundaries/raw/master/ga/ga.geojson" target="_blank">Download</a></td>
     </tr>
     <tr>
-        <td>Goa - GA </td>
+        <td><a href="/gj" target="_blank">Gujarat - GJ</a></td>
         <td>Complete</td>
-        <td><a href="http://mapshaper.org/?files=https://rawgit.com/datameet/indian_village_boundaries/master/ga/ga.geojson">Quick View</a></td>
-        <td><a href="https://github.com/datameet/indian_village_boundaries/raw/master/ga/ga.geojson">Download</a></td>
-    </tr></p>
-<p></tbody>
-</table>    </p>
+        <td><a href="https://github.com/datameet/indian_village_boundaries/raw/master/gj/gj.geojson" target="_blank">Download</a></td>
+    </tr>
+</tbody>
+</table>
+
 <h2 id="license">License</h2>
 <p>All our work will be under <a href="http://opendatacommons.org/licenses/odbl/">Open Data Commons Open Database License (ODbL)</a>. This data is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  If you find issues we are more than happy to accept corrections but please source them to an official source. Refer <a href="CONTRIBUTING.md">CONTRIBUTING.md</a> for ways to contribute.</p>
 <h2 id="issues">Issues</h2>
@@ -243,6 +284,7 @@
     </script>
     <script data-main="./mkdocs/js/search.js" src="./mkdocs/js/require.js"></script>
     <script src="./js/base.js"></script>
+    <script src="./js/extra.js"></script>
 
     <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
         <div class="modal-dialog">

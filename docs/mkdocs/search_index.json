@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Indian Village Boundaries (Maps)\n\n\nIndian Village boundaries sourced from different government websites which are freely available to all the Indians. Here we have digitized them, cleaned them, added appropriate attributes so it can be used by all the researchers, students etc\n\n\nThe boundaries are organized by state using state ISO code. All the village boundaries are available in geojson (WGS84, EPSG4326) format. The below table gives you the status of the data as we clean and upload. Data is not perfect there as many errors both in data and boundaries. You can contribute by sending the pull requests. Please use the census names when correcting the attributes and geojson for shapes. Refer \nCONTRIBUTING\n for ways to contribute.\n\n\n This projects run by \nData{Meet}\n community. DataMeet is a community of Data Science and Open Data enthusiasts. Data{Meet} community encompass many people, ideas, projects, solutions, and challenges that using data in India presents. Join the the \nGoogle Group\n to be part of this community.\n\n\nStructure\n\n\nEach state has a folder with a short name, for example state of Gujarat will have GJ folder. It will contain a single geojson file gj.json and then a gj.md file containg the list of all supporting files.\n\n\nAttributes\n\n\nEach boundary will have the following attributes\n\n\n\n\nNAME : Name of the Village/Town as per census\n\n\nTYPE: Village or Town\n\n\nSUB_DIST: Sub District name as per census\n\n\nDISTRICT : District name as per census\n\n\nSTATE: State or UT name as per census\n\n\nCEN_2001: Code as per 2001 census, its a concatination of State Code, District Code, Sub-District Code, Village Code 2001.\n\n\nCEN_2011: Code as per 2011 census, We are yet to populate this. \n\n\n\n\nStatus\n\n\n\n    \n\n        \nState\n\n        \nStatus\n\n        \nQuick View\n\n        \nDownload\n\n    \n\n\n\n    \n\n        \nGujarat - GJ \n\n        \nComplete\n\n        \nQuick View\n\n        \nDownload\n\n    \n\n    \n\n        \nBihar - BR \n\n        \nComplete\n\n        \nQuick View\n\n        \nDownload\n\n    \n\n    \n\n        \nKarnataka - KA \n\n        \nComplete\n\n        \nQuick View\n\n        \nDownload\n\n    \n\n    \n\n        \nKerala - KL \n\n        \nComplete\n\n        \nQuick View\n\n        \nDownload\n\n    \n\n    \n\n        \nGoa - GA \n\n        \nComplete\n\n        \nQuick View\n\n        \nDownload\n\n    \n\n\n\n\n    \n\n\nLicense\n\n\nAll our work will be under \nOpen Data Commons Open Database License (ODbL)\n. This data is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  If you find issues we are more than happy to accept corrections but please source them to an official source. Refer \nCONTRIBUTING.md\n for ways to contribute.\n\n\nIssues\n\n\nIf you have any issues with the maps, please report them on the github repository:\n\n\nReport Issue\n\n\nActive Issues\n\n\nRepository\n\n\n\n  \n GitHub\n   \n\n  \n GitLab\n\n\nCommunity", 
+            "text": "Indian Village Boundaries (Maps)\n\n\nIndian Village boundaries sourced from different government websites which are freely available to all the Indians. Here we have digitized them, cleaned them, added appropriate attributes so it can be used by all the researchers, students etc\n\n\nThe boundaries are organized by state using state ISO code. All the village boundaries are available in geojson (WGS84, EPSG4326) format. The below table gives you the status of the data as we clean and upload. Data is not perfect there as many errors both in data and boundaries. You can contribute by sending the pull requests. Please use the census names when correcting the attributes and geojson for shapes. Refer \nCONTRIBUTING\n for ways to contribute.\n\n\n This projects run by \nData{Meet}\n community. DataMeet is a community of Data Science and Open Data enthusiasts. Data{Meet} community encompass many people, ideas, projects, solutions, and challenges that using data in India presents. Join the the \nGoogle Group\n to be part of this community.\n\n\nStructure\n\n\nEach state has a folder with a short name, for example state of Gujarat will have GJ folder. It will contain a single geojson file gj.json and then a gj.md file containg the list of all supporting files.\n\n\nAttributes\n\n\nEach boundary will have the following attributes\n\n\n\n\nNAME : Name of the Village/Town as per census\n\n\nTYPE: Village or Town\n\n\nSUB_DIST: Sub District name as per census\n\n\nDISTRICT : District name as per census\n\n\nSTATE: State or UT name as per census\n\n\nCEN_2001: Code as per 2001 census, its a concatination of State Code, District Code, Sub-District Code, Village Code 2001.\n\n\nCEN_2011: Code as per 2011 census, We are yet to populate this. \n\n\n\n\nStates\n\n\nFor a view of each state map go to the state page. In state page you can see a very rough version of the state village map and notes related to that state map. You can also download the full version state map from state page. If you just want to download the map. \nRight click on download link -\n Save link as\n.\n\n\n\n    \n\n        \nState\n\n        \nStatus\n\n        \nDownload\n\n    \n\n\n\n    \n\n        \nBihar - BR\n\n        \nComplete\n\n        \nDownload\n\n    \n\n    \n\n        \nKarnataka - KA\n\n        \nComplete\n\n        \nDownload\n\n    \n\n    \n\n        \nKerala - KL\n\n        \nComplete\n\n        \nDownload\n\n    \n\n    \n\n        \nGoa - GA\n\n        \nComplete\n\n        \nDownload\n\n    \n\n    \n\n        \nGujarat - GJ\n\n        \nComplete\n\n        \nDownload\n\n    \n\n\n\n\n\n\n\nLicense\n\n\nAll our work will be under \nOpen Data Commons Open Database License (ODbL)\n. This data is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  If you find issues we are more than happy to accept corrections but please source them to an official source. Refer \nCONTRIBUTING.md\n for ways to contribute.\n\n\nIssues\n\n\nIf you have any issues with the maps, please report them on the github repository:\n\n\nReport Issue\n\n\nActive Issues\n\n\nRepository\n\n\n\n  \n GitHub\n   \n\n  \n GitLab\n\n\nCommunity", 
             "title": "Home"
         }, 
         {
@@ -21,9 +21,9 @@
             "title": "Attributes"
         }, 
         {
-            "location": "/#status", 
-            "text": "State \n         Status \n         Quick View \n         Download \n      \n     \n         Gujarat - GJ  \n         Complete \n         Quick View \n         Download \n     \n     \n         Bihar - BR  \n         Complete \n         Quick View \n         Download \n     \n     \n         Karnataka - KA  \n         Complete \n         Quick View \n         Download \n     \n     \n         Kerala - KL  \n         Complete \n         Quick View \n         Download \n     \n     \n         Goa - GA  \n         Complete \n         Quick View \n         Download", 
-            "title": "Status"
+            "location": "/#states", 
+            "text": "For a view of each state map go to the state page. In state page you can see a very rough version of the state village map and notes related to that state map. You can also download the full version state map from state page. If you just want to download the map.  Right click on download link -  Save link as .  \n     \n         State \n         Status \n         Download \n      \n     \n         Bihar - BR \n         Complete \n         Download \n     \n     \n         Karnataka - KA \n         Complete \n         Download \n     \n     \n         Kerala - KL \n         Complete \n         Download \n     \n     \n         Goa - GA \n         Complete \n         Download \n     \n     \n         Gujarat - GJ \n         Complete \n         Download", 
+            "title": "States"
         }, 
         {
             "location": "/#license", 
@@ -139,6 +139,166 @@
             "location": "/tutorials/#tutorials", 
             "text": "Converting GeoJSON into Shapefile  Exploring GeoJSON and renaming fields  Mapping GeoJSON files on GitHub", 
             "title": "Tutorials"
+        }, 
+        {
+            "location": "/br/", 
+            "text": "Bihar\n\n\n\n\nTotal Villages and Towns: \n\n\nCensus State code: \n\n\nShort Name: BR\n\n\n\n\nQuick View\n\n\nOnly static image as the map file is really huge. Please download and try it.\n\n\n\n\nDownload\n\n\nDownload the full map file by Right Click -\n Save Link As\n\n\n Download Map File\n\n\nSupporting Documents\n\n\n\n\nBR - Bihar Atlas -  iBHUGOAL-BiHar infrastrUcture mapping Geomatics Oriented Application modeL\n\n\nBR - Administrative Atlas-Bihar\n\n\nBR - Bhuwan Panchayat\n\n\n\n\nStatus\n\n\n\n\n[x] Map complete - started \n\n\n[ ] 2011 village coding needs to be done", 
+            "title": "Bihar"
+        }, 
+        {
+            "location": "/br/#bihar", 
+            "text": "Total Villages and Towns:   Census State code:   Short Name: BR", 
+            "title": "Bihar"
+        }, 
+        {
+            "location": "/br/#quick-view", 
+            "text": "Only static image as the map file is really huge. Please download and try it.", 
+            "title": "Quick View"
+        }, 
+        {
+            "location": "/br/#download", 
+            "text": "Download the full map file by Right Click -  Save Link As   Download Map File", 
+            "title": "Download"
+        }, 
+        {
+            "location": "/br/#supporting-documents", 
+            "text": "BR - Bihar Atlas -  iBHUGOAL-BiHar infrastrUcture mapping Geomatics Oriented Application modeL  BR - Administrative Atlas-Bihar  BR - Bhuwan Panchayat", 
+            "title": "Supporting Documents"
+        }, 
+        {
+            "location": "/br/#status", 
+            "text": "[x] Map complete - started   [ ] 2011 village coding needs to be done", 
+            "title": "Status"
+        }, 
+        {
+            "location": "/ka/", 
+            "text": "Karnataka\n\n\n\n\nTotal Villages and Towns: \n\n\nCensus State code: \n\n\nShort Name: KA\n\n\n\n\nQuick View\n\n\nOnly static image as the map file is really huge. Please download and try it.\n\n\n\nDownload\n\n\nDownload the full map file by Right Click -\n Save Link As\n\n\n Download Map File\n\n\nCredits\n\n\n\n\nInitial Digitizing \nCentre for Interdisciplinary Studies for Environment \n Development (CISED), now merged with ATREE\n.\n\n\n\n\nSupporting Documents\n\n\n\n\nKA - Bhuvan Panchayat - Digital Empowerment of Society for Panchayat level Planning and Governance\n\n\nKA - Geographical Information System (GIS) based Road Information System (RIS) for PWP \n IWTD Road Network\n\n\nKA - Dharwad Village Boundaries\n\n\n\n\nStatus\n\n\n\n\n[x] Intial Map complete \n\n\n[ ] Need 2001 Village coding creation\n\n\n\n\nHistorical Info by creators\n\n\nREADME FILE FOR GIS LAYER \nKar-village-with census 1991 and 2001-GEOG\n\n\n\n\nThis is a shapefile containing the revenue village boundaries of villages in Karnataka \nstate, India\n\n\nThe boundaries have been digitized manually from District Census Handbooks of \nCensus 1991. Each taluka (=CD block in Karnataka) had a separate map. Each map \nwas scanned and digitzed by hand. Each taluka file was geo-rectified using \ncorresponding taluka boundaries created from Survey of India toposheets.\n\n\nThe fit of Census maps with Survey of India maps is not great. So the spatial \nregistration error is +/- 500m.\n\n\nDigitization was verified by comparing area of the digitized polygons with areas as \ngiven in the Census database. However, in several cases, even though there was no \nvisible digitization error, the areas did not match.\n\n\nMulti-part villages were identified and converted into multi-part polygons where \npossible.\n\n\nThe layer has been reprojected to WGS84 datum and Geographic projection (units: \ndecimal degrees)\n\n\nThe village polygons were coded with 1991 and 2001 census location codes. But the \nlayer does not reflect 2001 boundaries accurately (where villages have been merged \ninto towns or part-merged into towns.)", 
+            "title": "Karnataka"
+        }, 
+        {
+            "location": "/ka/#karnataka", 
+            "text": "Total Villages and Towns:   Census State code:   Short Name: KA", 
+            "title": "Karnataka"
+        }, 
+        {
+            "location": "/ka/#quick-view", 
+            "text": "Only static image as the map file is really huge. Please download and try it.", 
+            "title": "Quick View"
+        }, 
+        {
+            "location": "/ka/#download", 
+            "text": "Download the full map file by Right Click -  Save Link As   Download Map File", 
+            "title": "Download"
+        }, 
+        {
+            "location": "/ka/#credits", 
+            "text": "Initial Digitizing  Centre for Interdisciplinary Studies for Environment   Development (CISED), now merged with ATREE .", 
+            "title": "Credits"
+        }, 
+        {
+            "location": "/ka/#supporting-documents", 
+            "text": "KA - Bhuvan Panchayat - Digital Empowerment of Society for Panchayat level Planning and Governance  KA - Geographical Information System (GIS) based Road Information System (RIS) for PWP   IWTD Road Network  KA - Dharwad Village Boundaries", 
+            "title": "Supporting Documents"
+        }, 
+        {
+            "location": "/ka/#status", 
+            "text": "[x] Intial Map complete   [ ] Need 2001 Village coding creation", 
+            "title": "Status"
+        }, 
+        {
+            "location": "/ka/#historical-info-by-creators", 
+            "text": "README FILE FOR GIS LAYER \nKar-village-with census 1991 and 2001-GEOG   This is a shapefile containing the revenue village boundaries of villages in Karnataka \nstate, India  The boundaries have been digitized manually from District Census Handbooks of \nCensus 1991. Each taluka (=CD block in Karnataka) had a separate map. Each map \nwas scanned and digitzed by hand. Each taluka file was geo-rectified using \ncorresponding taluka boundaries created from Survey of India toposheets.  The fit of Census maps with Survey of India maps is not great. So the spatial \nregistration error is +/- 500m.  Digitization was verified by comparing area of the digitized polygons with areas as \ngiven in the Census database. However, in several cases, even though there was no \nvisible digitization error, the areas did not match.  Multi-part villages were identified and converted into multi-part polygons where \npossible.  The layer has been reprojected to WGS84 datum and Geographic projection (units: \ndecimal degrees)  The village polygons were coded with 1991 and 2001 census location codes. But the \nlayer does not reflect 2001 boundaries accurately (where villages have been merged \ninto towns or part-merged into towns.)", 
+            "title": "Historical Info by creators"
+        }, 
+        {
+            "location": "/kl/", 
+            "text": "Kerala\n\n\n\n\nTotal Villages and Towns: 1533\n\n\nCensus State code: 32\n\n\nShort Name: KL\n\n\n\n\nQuick View\n\n\n\n\nDownload\n\n\nDownload the full map file by Right Click -\n Save Link As\n\n\n Download Map File\n\n\nSupporting Documents\n\n\n\n\nDelimitation Map 2010, Kerala, Maps of Villages and Towns\n\n\n\n\nStatus\n\n\n\n\n[x] Map complete\n\n\n[x] 2001 village coding needs to be done\n\n\n\n\n\nvar map_path = '../minified_maps/kl_simplified.json';", 
+            "title": "Kerala"
+        }, 
+        {
+            "location": "/kl/#kerala", 
+            "text": "Total Villages and Towns: 1533  Census State code: 32  Short Name: KL", 
+            "title": "Kerala"
+        }, 
+        {
+            "location": "/kl/#quick-view", 
+            "text": "", 
+            "title": "Quick View"
+        }, 
+        {
+            "location": "/kl/#download", 
+            "text": "Download the full map file by Right Click -  Save Link As   Download Map File", 
+            "title": "Download"
+        }, 
+        {
+            "location": "/kl/#supporting-documents", 
+            "text": "Delimitation Map 2010, Kerala, Maps of Villages and Towns", 
+            "title": "Supporting Documents"
+        }, 
+        {
+            "location": "/kl/#status", 
+            "text": "[x] Map complete  [x] 2001 village coding needs to be done   \nvar map_path = '../minified_maps/kl_simplified.json';", 
+            "title": "Status"
+        }, 
+        {
+            "location": "/ga/", 
+            "text": "GOA\n\n\n\n\nTotal Villages and Towns: 402\n\n\nCensus State code: \n\n\nShort Name: GA\n\n\n\n\nQuick View\n\n\n\n\n\nDownload\n\n\nDownload the full map file by Right Click -\n Save Link As\n\n\n Download Map File\n\n\nSupporting Documents\n\n\n\n\nGA - Bhuvan Panchayat - Digital Empowerment of Society for Panchayat level Planning and Governance\n\n\nGA - Taluka Village Maps - Department of Science, Technology and Environment, Govt of Goa -  PDF\n\n\nGA - Districts of Goa, Govt of Goa\n\n\nGA - DGPS Maps - Directorate of Mines \n Geology, Govt of Goa\n\n\nGA - Bhuvan Goa\n\n\nGA - GARV-GIS Mapping of UE Villages\n\n\n\n\nStatus\n\n\n\n\n[x] Intial Map complete \n\n\n[x] Need 2001 Village coding creation\n\n\n\n\n\nvar map_path = '../minified_maps/ga_simplified.json';", 
+            "title": "Goa"
+        }, 
+        {
+            "location": "/ga/#goa", 
+            "text": "Total Villages and Towns: 402  Census State code:   Short Name: GA", 
+            "title": "GOA"
+        }, 
+        {
+            "location": "/ga/#quick-view", 
+            "text": "", 
+            "title": "Quick View"
+        }, 
+        {
+            "location": "/ga/#download", 
+            "text": "Download the full map file by Right Click -  Save Link As   Download Map File", 
+            "title": "Download"
+        }, 
+        {
+            "location": "/ga/#supporting-documents", 
+            "text": "GA - Bhuvan Panchayat - Digital Empowerment of Society for Panchayat level Planning and Governance  GA - Taluka Village Maps - Department of Science, Technology and Environment, Govt of Goa -  PDF  GA - Districts of Goa, Govt of Goa  GA - DGPS Maps - Directorate of Mines   Geology, Govt of Goa  GA - Bhuvan Goa  GA - GARV-GIS Mapping of UE Villages", 
+            "title": "Supporting Documents"
+        }, 
+        {
+            "location": "/ga/#status", 
+            "text": "[x] Intial Map complete   [x] Need 2001 Village coding creation   \nvar map_path = '../minified_maps/ga_simplified.json';", 
+            "title": "Status"
+        }, 
+        {
+            "location": "/gj/", 
+            "text": "Gujarat\n\n\n\n\nTotal Villages and Towns: 18797\n\n\nCensus State code: 24\n\n\nShort Name: GJ\n\n\n\n\nQuick View\n\n\nMight take some time to load, as even the simplified version is about 10MB.\n\n\n\nDownload\n\n\nDownload the full map file by Right Click -\n Save Link As\n\n\n Download Map File\n\n\nSupporting Documents\n\n\n\n\nGujarat Revenue Department Maps\n\n\nCensus of India, List of Villages/Towns, 2011\n \n\n\nVILLAGE CENSUS CODE - 2001, \n\n\n\n\nStatus\n\n\n\n\n[x] Map complete\n\n\n[x] Need 2001 Village coding creation\n\n\n\n\n\nvar map_path = '../minified_maps/gj_simplified.json';", 
+            "title": "Gujarat"
+        }, 
+        {
+            "location": "/gj/#gujarat", 
+            "text": "Total Villages and Towns: 18797  Census State code: 24  Short Name: GJ", 
+            "title": "Gujarat"
+        }, 
+        {
+            "location": "/gj/#quick-view", 
+            "text": "Might take some time to load, as even the simplified version is about 10MB.", 
+            "title": "Quick View"
+        }, 
+        {
+            "location": "/gj/#download", 
+            "text": "Download the full map file by Right Click -  Save Link As   Download Map File", 
+            "title": "Download"
+        }, 
+        {
+            "location": "/gj/#supporting-documents", 
+            "text": "Gujarat Revenue Department Maps  Census of India, List of Villages/Towns, 2011    VILLAGE CENSUS CODE - 2001,", 
+            "title": "Supporting Documents"
+        }, 
+        {
+            "location": "/gj/#status", 
+            "text": "[x] Map complete  [x] Need 2001 Village coding creation   \nvar map_path = '../minified_maps/gj_simplified.json';", 
+            "title": "Status"
         }
     ]
 }
