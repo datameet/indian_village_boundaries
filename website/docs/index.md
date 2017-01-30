@@ -12,18 +12,34 @@ The boundaries are organized by state using state ISO code. All the village boun
 Each state has a folder with a short name, for example state of Karnataka will have folder called <code>ka</code> folder. It will contain 
 
 - A geojson file <code>ka.json</code> which is our map file
-- A <code>ka_village_2011_2001_code_mapping.txt</code>, is a <code>;</code> delimted file to match the 2011 census codes to 2001 census codes.
+- A <code>ka.csv</code> is a <code>,</code> delimted file to match the 2001 census codes to 2011 census codes and other attributes
 
 
 ### GeoJson Attributes
 Each boundary will have the following attributes
 
-* NAME : Name of the Village/Town as per census
-* TYPE: Village or Town
-* SUB_DIST: Sub District name as per census
-* DISTRICT : District name as per census
-* STATE: State or UT name as per census
+* NAME : Name of the Village/Town as per census 2001
+* TYPE: Village or Town 
+* SUB_DIST: Sub District name as per census 2001
+* DISTRICT : District name as per census 2001
+* STATE: State or UT name as per census 2001
 * CEN_2001: Code as per 2001 census, its a concatination of State Code, District Code, Sub-District Code, Village Code 2001.
+
+### CSV Attributes
+
+* village_code_2011
+* village_name_2011
+* state_code_2011
+* district_code_2011 
+* sub_district_code_2011
+* village_code_2001
+* village_name_2001
+* state_code_2001
+* district_code_2001
+* sub_district_code_2001
+* CEN_2001 : Code as per 2001 census, its a concatination of State Code, District Code, Sub-District Code, Village Code 2001. This can be used as the key to match the polygon in geojson
+
+
 
 ## Download
 You can download the whole repository as a zip file to get everything you want. Using the button below.
