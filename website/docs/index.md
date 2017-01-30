@@ -9,10 +9,13 @@ The boundaries are organized by state using state ISO code. All the village boun
 
 
 ## Structure
-Each state has a folder with a short name, for example state of Gujarat will have GJ folder. It will contain a single geojson file gj.json and then a gj.md file containg the list of all supporting files.
+Each state has a folder with a short name, for example state of Karnataka will have folder called <code>ka</code> folder. It will contain 
+
+- A geojson file <code>ka.json</code> which is our map file
+- A <code>ka_village_2011_2001_code_mapping.txt</code>, is a <code>;</code> delimted file to match the 2011 census codes to 2001 census codes.
 
 
-## Attributes
+### GeoJson Attributes
 Each boundary will have the following attributes
 
 * NAME : Name of the Village/Town as per census
@@ -21,10 +24,14 @@ Each boundary will have the following attributes
 * DISTRICT : District name as per census
 * STATE: State or UT name as per census
 * CEN_2001: Code as per 2001 census, its a concatination of State Code, District Code, Sub-District Code, Village Code 2001.
-* CEN_2011: Code as per 2011 census, We are yet to populate this. 
 
-## States
-For a view of each state map go to the state page. In state page you can see a very rough version of the state village map and notes related to that state map. You can also download the full version state map from state page. If you just want to download the map. <em>Right click on download link -> Save link as</em>.
+## Download
+You can download the whole repository as a zip file to get everything you want. Using the button below.
+
+<a class="btn btn-lg btn-success" href="https://github.com/datameet/indian_village_boundaries/archive/master.zip">
+  <i class="fa fa-download fa-2x pull-left"></i> Download Everything</a>
+
+If you are in exploring mode then to go to the specific state map page. In state page you can see a very rough version of the state village map and notes related to that state map. You can also download the full version state map from state page. If you just want to download the map. <code>Right click on download link -> Save link as</code>.
 
 <table class="table table-bordered">
 	<thead >
@@ -63,6 +70,13 @@ For a view of each state map go to the state page. In state page you can see a v
 
 ## License
 All our work will be under [Open Data Commons Open Database License (ODbL)](http://opendatacommons.org/licenses/odbl/). This data is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  If you find issues we are more than happy to accept corrections but please source them to an official source. Refer [CONTRIBUTING.md](CONTRIBUTING.md) for ways to contribute.
+
+### Attribute
+Please use the following lines to attribute the maps if you use in your work. You could link instead of printing the URLs in case of web projects.
+<pre>
+Villages Maps Provided by Indian Village Boundaries Project [http://projects.datameet.org/indian_village_boundaries/] by Data{Meet}. Its made available under the Open Database License (ODbL)[http://opendatacommons.org/licenses/odbl/].
+</pre>	
+
 
 ## Issues
 
