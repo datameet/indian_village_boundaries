@@ -1,3 +1,5 @@
+description: A project website for Indian village boundary maps in geojson format for download and reuse. 
+
 #Indian Village Boundaries (Maps)
 
 Indian Village boundaries sourced from different government websites which are freely available to all the Indians. Here we have digitized them, cleaned them, added appropriate attributes so it can be used by all the researchers, students etc

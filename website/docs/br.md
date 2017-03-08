@@ -1,3 +1,6 @@
+title: Village maps for the state of Bihar
+description: Village maps for the state of Bihar. Availabe in geojson format which can be converted into shapefile.
+
 ## Bihar
 
 * Total Villages and Towns: 

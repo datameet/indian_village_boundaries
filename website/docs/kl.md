@@ -1,3 +1,6 @@
+title: Village maps for the state of Kerala.
+description: Village maps for the state of Kerala. Availabe in geojson format which can be converted into shapefile.
+
 # Kerala
 
 * Total Villages and Towns: 1533

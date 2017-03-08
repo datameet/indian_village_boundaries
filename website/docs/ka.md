@@ -1,3 +1,6 @@
+title: Village maps for the state of Karnataka
+description: Village maps for the state of Karnataka. Availabe in geojson format which can be converted into shapefile.
+
 # Karnataka
 
 * Total Villages and Towns: 

@@ -1,3 +1,6 @@
+title: Village maps for the state of Goa
+description: Village maps for the state of Goa. Availabe in geojson format which can be converted into shapefile.
+
 # GOA
 
 * Total Villages and Towns: 402

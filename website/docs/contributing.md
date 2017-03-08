@@ -1,3 +1,5 @@
+description:  Contributing to Indian Village Boundaries mapping project.
+
 # Contributing to Indian Village Boundaries
 We are open to contributions. Please read [DataMeet Community Code of Conduct](http://datameet.org/wiki/guidelines:datameet-community-code-of-conduct) before you start and also read our [license to familiarize yourself with ODBl](http://opendatacommons.org/licenses/odbl/) under which all our and your contributions will be distributed.
 

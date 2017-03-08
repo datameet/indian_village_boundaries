@@ -1,3 +1,7 @@
+title: Village maps for the state of Gujarat
+description: Village maps for the state of Gujarat. Availabe in geojson format which can be converted into shapefile.
+
+
 # Gujarat
 
 * Total Villages and Towns: 18797
