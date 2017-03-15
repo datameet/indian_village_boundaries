@@ -14,6 +14,13 @@ pages:
         - Kerala: kl.md
         - Goa: ga.md
         - Gujarat: gj.md
+    - Maps:
+      - 'Assembly Constituencies': 'assembly-constituencies.md'
+      - 'Parliamentary constituencies': 'parliamentary-constituencies.md'
+      - 'States': 'states.md'
+      - 'Districts': 'districts.md'
+      - 'Spatial data of Municipalities': 'Municipal_Spatial_Data.md'
+      - 'India Village Boundaries(Maps)': 'index.md'
 site_dir: './../docs'
 extra_css:
     - css/extra.css
