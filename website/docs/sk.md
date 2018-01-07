@@ -1,7 +1,7 @@
 ## Sikkim
 
-* Total Villages and Towns: 
-* Census State code: 
+* Total Villages and Towns: 406 (actual - 452)
+* Census State code: 11
 * Short Name: SK
 
 ### Credits
@@ -15,7 +15,7 @@
 - [ ] Needs Taluk/District/Village boundary verification
 - [ ] 2011 village coding needs to be done
 - [ ] Need 2001 Village coding creation
-- [ ] Need to remove unwanted attributes
-- [ ] Need to rename the attribute to reflect the attribute
+- [x] Need to remove unwanted attributes
+- [x] Need to rename the attribute to reflect the attribute
 
 
