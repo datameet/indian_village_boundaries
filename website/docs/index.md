@@ -10,39 +10,6 @@ The boundaries are organized by state using state ISO code. All the village boun
 <img width="250px" style="float:left" src="http://projects.datameet.org/logo/datameet_logo_v.1.2.png" > This projects run by <a href="http://datameet.org">Data{Meet}</a> community. DataMeet is a community of Data Science and Open Data enthusiasts. Data{Meet} community encompass many people, ideas, projects, solutions, and challenges that using data in India presents. Join the the <a href="https://groups.google.com/group/datameet">Google Group</a> to be part of this community.
 
 
-## Structure
-Each state has a folder with a short name, for example state of Karnataka will have folder called <code>ka</code> folder. It will contain 
-
-- A geojson file <code>ka.json</code> which is our map file
-- A <code>ka.csv</code> is a <code>,</code> delimted file to match the 2001 census codes to 2011 census codes and other attributes
-
-
-### GeoJson Attributes
-Each boundary will have the following attributes
-
-* NAME : Name of the Village/Town as per census 2001
-* TYPE: Village or Town 
-* SUB_DIST: Sub District name as per census 2001
-* DISTRICT : District name as per census 2001
-* STATE: State or UT name as per census 2001
-* CEN_2001: Code as per 2001 census, its a concatination of State Code, District Code, Sub-District Code, Village Code 2001.
-
-### CSV Attributes
-
-* village_code_2011
-* village_name_2011
-* state_code_2011
-* district_code_2011 
-* sub_district_code_2011
-* village_code_2001
-* village_name_2001
-* state_code_2001
-* district_code_2001
-* sub_district_code_2001
-* CEN_2001 : Code as per 2001 census, its a concatination of State Code, District Code, Sub-District Code, Village Code 2001. This can be used as the key to match the polygon in geojson
-
-
-
 ## Download
 You can download the whole repository as a zip file to get everything you want. Using the button below.
 
@@ -83,8 +50,57 @@ If you are in exploring mode then to go to the specific state map page. In state
 		<td>Complete</td>
 		<td><a href="https://github.com/datameet/indian_village_boundaries/raw/master/gj/gj.geojson" target="_blank">Download</a></td>
 	</tr>
+	<tr>
+		<td><a href="mh/" target="_blank">Maharashtra - MH</a></td>
+		<td>Complete</td>
+		<td><a href="https://github.com/datameet/indian_village_boundaries/raw/master/mh/mh1.geojson" target="_blank">Download 1</a>, <a href="https://github.com/datameet/indian_village_boundaries/raw/master/mh/mh2.geojson" target="_blank">Download 2</a></td>
+	</tr>
+	<tr>
+		<td><a href="sk/" target="_blank">Sikkim - SK</a></td>
+		<td>Complete</td>
+		<td><a href="https://github.com/datameet/indian_village_boundaries/raw/master/gj/gj.geojson" target="_blank">Download</a></td>
+	</tr>
+	<tr>
+		<td><a href="or/" target="_blank">Odisha - OR</a></td>
+		<td>Complete</td>
+		<td><a href="https://github.com/datameet/indian_village_boundaries/raw/master/or/or1.geojson" target="_blank">Download 1</a>, <a href="https://github.com/datameet/indian_village_boundaries/raw/master/or/or1.geojson" target="_blank">Download 2</a></td>
+	</tr>
+
 </tbody>
 </table>
+
+
+## Structure
+Each state has a folder with a short name, for example state of Karnataka will have folder called <code>ka</code> folder. It will contain 
+
+- A geojson file <code>ka.json</code> which is our map file
+- A <code>ka.csv</code> is a <code>,</code> delimted file to match the 2001 census codes to 2011 census codes and other attributes
+
+
+### GeoJson Attributes
+Each boundary will have the following attributes
+
+* NAME : Name of the Village/Town as per census 2001
+* TYPE: Village or Town 
+* SUB_DIST: Sub District name as per census 2001
+* DISTRICT : District name as per census 2001
+* STATE: State or UT name as per census 2001
+* CEN_2001: Code as per 2001 census, its a concatination of State Code, District Code, Sub-District Code, Village Code 2001.
+
+### CSV Attributes
+
+* village_code_2011
+* village_name_2011
+* state_code_2011
+* district_code_2011 
+* sub_district_code_2011
+* village_code_2001
+* village_name_2001
+* state_code_2001
+* district_code_2001
+* sub_district_code_2001
+* CEN_2001 : Code as per 2001 census, its a concatination of State Code, District Code, Sub-District Code, Village Code 2001. This can be used as the key to match the polygon in geojson
+
 
 ## License
 All our work will be under [Open Data Commons Open Database License (ODbL)](http://opendatacommons.org/licenses/odbl/). This data is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  If you find issues we are more than happy to accept corrections but please source them to an official source. Refer [CONTRIBUTING.md](CONTRIBUTING.md) for ways to contribute.

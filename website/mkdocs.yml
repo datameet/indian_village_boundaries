@@ -14,6 +14,9 @@ pages:
         - Kerala: kl.md
         - Goa: ga.md
         - Gujarat: gj.md
+        - Maharashtra: mh.md
+        - Odisha: or.md
+        - Sikkim: sk.md
     - Maps:
       - 'Assembly Constituencies': 'assembly-constituencies.md'
       - 'Parliamentary constituencies': 'parliamentary-constituencies.md'

@@ -7,8 +7,8 @@ description: Village maps for the state of Odisha. Availabe in geojson format wh
 * Census State code: 
 * Short Name: OR
 
-## Quick View
-
+## Quick View 
+Only one part (or1.geojson) is dsiplayed here. You need to download both the geojson files for your project.
 <div id="map"></div>
 
 ## Download
@@ -33,6 +33,6 @@ Download the map files by Right Click -> Save Link As
 
 
 <script type='text/javascript'>
-var map_path = '../minified_maps/ga_simplified.json';
+var map_path = '../minified_maps/or1_simplified.json';
 </script>
 <script type='text/javascript' src="/js/extra.js"></script>

@@ -146,6 +146,24 @@
 </li>
 
                         
+                            
+<li >
+    <a href="mh/">Maharashtra</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="or/">Odisha</a>
+</li>
+
+                        
+                            
+<li >
+    <a href="sk/">Sikkim</a>
+</li>
+
+                        
                         </ul>
                     </li>
                 
@@ -229,14 +247,14 @@
     
         <li class="first-level active"><a href="#indian-village-boundaries-maps">Indian Village Boundaries (Maps)</a></li>
         
+            <li class="second-level"><a href="#download">Download</a></li>
+            
+        
             <li class="second-level"><a href="#structure">Structure</a></li>
             
                 <li class="third-level"><a href="#geojson-attributes">GeoJson Attributes</a></li>
             
                 <li class="third-level"><a href="#csv-attributes">CSV Attributes</a></li>
-            
-        
-            <li class="second-level"><a href="#download">Download</a></li>
             
         
             <li class="second-level"><a href="#license">License</a></li>
@@ -262,36 +280,6 @@
 <p>Indian Village boundaries sourced from different government websites which are freely available to all the Indians. Here we have digitized them, cleaned them, added appropriate attributes so it can be used by all the researchers, students etc</p>
 <p>The boundaries are organized by state using state ISO code. All the village boundaries are available in geojson (WGS84, EPSG4326) format. The below table gives you the status of the data as we clean and upload. Data is not perfect there as many errors both in data and boundaries. You can contribute by sending the pull requests. Please use the census names when correcting the attributes and geojson for shapes. Refer <a href="./contributing">CONTRIBUTING</a> for ways to contribute.</p>
 <p><img width="250px" style="float:left" src="http://projects.datameet.org/logo/datameet_logo_v.1.2.png" > This projects run by <a href="http://datameet.org">Data{Meet}</a> community. DataMeet is a community of Data Science and Open Data enthusiasts. Data{Meet} community encompass many people, ideas, projects, solutions, and challenges that using data in India presents. Join the the <a href="https://groups.google.com/group/datameet">Google Group</a> to be part of this community.</p>
-<h2 id="structure">Structure</h2>
-<p>Each state has a folder with a short name, for example state of Karnataka will have folder called <code>ka</code> folder. It will contain </p>
-<ul>
-<li>A geojson file <code>ka.json</code> which is our map file</li>
-<li>A <code>ka.csv</code> is a <code>,</code> delimted file to match the 2001 census codes to 2011 census codes and other attributes</li>
-</ul>
-<h3 id="geojson-attributes">GeoJson Attributes</h3>
-<p>Each boundary will have the following attributes</p>
-<ul>
-<li>NAME : Name of the Village/Town as per census 2001</li>
-<li>TYPE: Village or Town </li>
-<li>SUB_DIST: Sub District name as per census 2001</li>
-<li>DISTRICT : District name as per census 2001</li>
-<li>STATE: State or UT name as per census 2001</li>
-<li>CEN_2001: Code as per 2001 census, its a concatination of State Code, District Code, Sub-District Code, Village Code 2001.</li>
-</ul>
-<h3 id="csv-attributes">CSV Attributes</h3>
-<ul>
-<li>village_code_2011</li>
-<li>village_name_2011</li>
-<li>state_code_2011</li>
-<li>district_code_2011 </li>
-<li>sub_district_code_2011</li>
-<li>village_code_2001</li>
-<li>village_name_2001</li>
-<li>state_code_2001</li>
-<li>district_code_2001</li>
-<li>sub_district_code_2001</li>
-<li>CEN_2001 : Code as per 2001 census, its a concatination of State Code, District Code, Sub-District Code, Village Code 2001. This can be used as the key to match the polygon in geojson</li>
-</ul>
 <h2 id="download">Download</h2>
 <p>You can download the whole repository as a zip file to get everything you want. Using the button below.</p>
 <p><a class="btn btn-lg btn-success" href="https://github.com/datameet/indian_village_boundaries/archive/master.zip">
@@ -329,9 +317,55 @@
         <td>Complete</td>
         <td><a href="https://github.com/datameet/indian_village_boundaries/raw/master/gj/gj.geojson" target="_blank">Download</a></td>
     </tr>
+    <tr>
+        <td><a href="mh/" target="_blank">Maharashtra - MH</a></td>
+        <td>Complete</td>
+        <td><a href="https://github.com/datameet/indian_village_boundaries/raw/master/mh/mh1.geojson" target="_blank">Download 1</a>, <a href="https://github.com/datameet/indian_village_boundaries/raw/master/mh/mh2.geojson" target="_blank">Download 2</a></td>
+    </tr>
+    <tr>
+        <td><a href="sk/" target="_blank">Sikkim - SK</a></td>
+        <td>Complete</td>
+        <td><a href="https://github.com/datameet/indian_village_boundaries/raw/master/gj/gj.geojson" target="_blank">Download</a></td>
+    </tr>
+    <tr>
+        <td><a href="or/" target="_blank">Odisha - OR</a></td>
+        <td>Complete</td>
+        <td><a href="https://github.com/datameet/indian_village_boundaries/raw/master/or/or1.geojson" target="_blank">Download 1</a>, <a href="https://github.com/datameet/indian_village_boundaries/raw/master/or/or1.geojson" target="_blank">Download 2</a></td>
+    </tr>
+
 </tbody>
 </table>
 
+<h2 id="structure">Structure</h2>
+<p>Each state has a folder with a short name, for example state of Karnataka will have folder called <code>ka</code> folder. It will contain </p>
+<ul>
+<li>A geojson file <code>ka.json</code> which is our map file</li>
+<li>A <code>ka.csv</code> is a <code>,</code> delimted file to match the 2001 census codes to 2011 census codes and other attributes</li>
+</ul>
+<h3 id="geojson-attributes">GeoJson Attributes</h3>
+<p>Each boundary will have the following attributes</p>
+<ul>
+<li>NAME : Name of the Village/Town as per census 2001</li>
+<li>TYPE: Village or Town </li>
+<li>SUB_DIST: Sub District name as per census 2001</li>
+<li>DISTRICT : District name as per census 2001</li>
+<li>STATE: State or UT name as per census 2001</li>
+<li>CEN_2001: Code as per 2001 census, its a concatination of State Code, District Code, Sub-District Code, Village Code 2001.</li>
+</ul>
+<h3 id="csv-attributes">CSV Attributes</h3>
+<ul>
+<li>village_code_2011</li>
+<li>village_name_2011</li>
+<li>state_code_2011</li>
+<li>district_code_2011 </li>
+<li>sub_district_code_2011</li>
+<li>village_code_2001</li>
+<li>village_name_2001</li>
+<li>state_code_2001</li>
+<li>district_code_2001</li>
+<li>sub_district_code_2001</li>
+<li>CEN_2001 : Code as per 2001 census, its a concatination of State Code, District Code, Sub-District Code, Village Code 2001. This can be used as the key to match the polygon in geojson</li>
+</ul>
 <h2 id="license">License</h2>
 <p>All our work will be under <a href="http://opendatacommons.org/licenses/odbl/">Open Data Commons Open Database License (ODbL)</a>. This data is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  If you find issues we are more than happy to accept corrections but please source them to an official source. Refer <a href="CONTRIBUTING.md">CONTRIBUTING.md</a> for ways to contribute.</p>
 <h3 id="attribute">Attribute</h3>
