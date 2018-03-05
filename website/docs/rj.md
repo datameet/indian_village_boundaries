@@ -1,8 +1,8 @@
-## Maharashtra
+## Rajasthan
 
-* Total Villages and Towns: 35447
-* Census State code: 27
-* Short Name: MH
+* Total Villages and Towns: 
+* Census State code: 
+* Short Name: RJ
 
 ## Credit
 - [Source for shape files: https://ncog.gov.in/](https://ncog.gov.in/).
@@ -30,8 +30,8 @@ Download the map files by Right Click -> Save Link As
 
 ## Supporting Documents
 - [Cities and towns list](http://censusindia.gov.in/towns/raj_towns.pdf)
-- [MH - PCA Maharashtra 2011](http://www.censusindia.gov.in/2011census/hlo/pca/PCA_Data_Rajasthan%20.html)
-- [MH - Administrative Atlas Rajasthan -Census Of India 2011](http://censusindia.gov.in/2011census/maps/atlas/Rajasthan.html)
+- [RJ - PCA Rajasthan 2011](http://www.censusindia.gov.in/2011census/hlo/pca/PCA_Data_Rajasthan%20.html)
+- [RJ - Administrative Atlas Rajasthan -Census Of India 2011](http://censusindia.gov.in/2011census/maps/atlas/Rajasthan.html)
 
 
 
