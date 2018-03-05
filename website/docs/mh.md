@@ -8,7 +8,7 @@
 - [DataMeet Pune Maharashtra Villages mapping](https://github.com/datameet-pune/datameet-pune.github.io/wiki/Maharashtra-Villages-mapping).
 
 ## Quick View
-Only one part (mh1.geojson) is dsiplayed here. You need to download both the geojson files for your project.
+Only one part (mh1.geojson) is displayed here. You need to download both the geojson files for your project.
 <div id="map"></div>
 
 ## Download
